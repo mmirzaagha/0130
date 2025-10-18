@@ -89,6 +89,10 @@ https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Turkey Documentary",TRT BELGESEL HD
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
+#EXTINF:-1 group-title="Turkey Kids",Minika Go
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4NzY5Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwibCI6IjRmMGM2YTc4IiwicCI6IjRmMGM2YTc4YWU2YTdhODUiLCJjIjoiMTAxOSIsInQiOiIyOTkzMDUzN2JhZjE1Mjc2Y2VmMzI3MThiZmE2NjczNCIsImQiOiIxOTM1NzgiLCJyIjoiMTk3Mzk1IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15Lzg3NjkvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+#EXTINF:-1 group-title="Turkey Kids",Minika Çocuk
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4ODE1Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwibCI6IjRmMGM2YTc4IiwicCI6IjRmMGM2YTc4YWU2YTdhODUiLCJjIjoiMTAzMCIsInQiOiIyOTkzMDUzN2JhZjE1Mjc2Y2VmMzI3MThiZmE2NjczNCIsImQiOiIxOTM1NzgiLCJyIjoiMTk3Mzk1IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15Lzg4MTUvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
 
 
 # --- Rus Kanalları ---
