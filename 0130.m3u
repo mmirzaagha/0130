@@ -1,90 +1,99 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml"
-#EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.postimg.cc/Vkbmrxkj/aztv.png" group-title="General",Az TV (1080p)
+
+############################
+# 🇦🇿 AZƏRBAYCAN – ÜMUMİ
+############################
+#EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.postimg.cc/Vkbmrxkj/aztv.png" group-title="🇦🇿 Azərbaycan – Ümumi",Az TV (1080p)
 https://str.yodacdn.net/aztv/index.m3u8
-#EXTINF:-1 tvg-name="Arb.az" group-title="AZERBAYCAN YAYINLAR",ARB
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
-#EXTINF:-1 tvg-name="ARBGUNES.az" group-title="AZERBAYCAN YAYINLAR",ARB Gunes
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 tvg-name="AZADTV.az" group-title="AZERBAYCAN YAYINLAR",Azad TV
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
-#EXTINF:-1 tvg-name="AzstarTV.az" group-title="AZERBAYCAN YAYINLAR",Azstar TV
-https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-#EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="News",Baku TV (720p)
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
-#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="General",Ictimai TV
+#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="🇦🇿 Azərbaycan – Ümumi",İctimai TV
 https://live.itv.az/itv.m3u8
-#EXTINF:-1 tvg-name="CBCSPORT.az" group-title="AZERBAYCAN YAYINLAR",CBC Sport [Geo-blocked]
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 tvg-name="DUNYATV.az" group-title="AZERBAYCAN YAYINLAR",Dunya TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
-#EXTINF:-1 tvg-name="ELTV.az" group-title="AZERBAYCAN YAYINLAR",EL TV (260p) [Not 24/7]
-http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1 tvg-name="KANALSTV.az" group-title="AZERBAYCAN YAYINLAR",Kanal S TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
-#EXTINF:-1 tvg-name="MTV.az" group-title="AZERBAYCAN YAYINLAR",MTV TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mtv-azerbaycan.m3u8
-#EXTINF:-1 tvg-name="SPACETV.az" group-title="AZERBAYCAN YAYINLAR",Space TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:-1 tvg-name="VIPTV.az" group-title="AZERBAYCAN YAYINLAR",VIP TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
-#EXTINF:-1 tvg-name="XEZERTV.az" group-title="AZERBAYCAN YAYINLAR",Xezer TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-#EXTINF:-1 tvg-name="APATV.az" group-title="AZERBAYCAN YAYINLAR",APA Tv
-http://rtmp.apa.tv/@pagroup!23.m3u8
-#EXTINF:-1 group-title="General",Könül TV1
+#EXTINF:-1 group-title="🇦🇿 Azərbaycan – Ümumi",Könül TV
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
 
-#EXTINF:-1 tvg-name="TV 8" group-title="Ulusal",TV 8
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-id="TRT 1.tr" group-title="Ulusal", TRT 1 HD
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" group-title="Ulusal", KANAL D HD
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
-#EXTINF:-1 tvg-id="ATV HD.tr" group-title="Ulusal", ATV HD
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 tvg-id="SHOW TV.tr" group-title="Ulusal", SHOW TV HD
-https://ciner.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1 tvg-id="STAR TV.tr" group-title="Ulusal", STAR TV HD
-https://dogus.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1 tvg-name="EURO D" group-title="Ulusal",EURO D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-#EXTINF:-1 group-title="Ulusal",NOW TV
-https://streams.uzunmuhalefet.com/stream/f9368c57-16e5-44a2-a559-46377a476b04.m3u8
+############################
+# 🇦🇿 AZƏRBAYCAN – DİGƏR
+############################
+#EXTINF:-1 tvg-name="Arb.az" group-title="🇦🇿 Azərbaycan – Digər",ARB
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:-1 tvg-name="ARBGUNES.az" group-title="🇦🇿 Azərbaycan – Digər",ARB Günəş
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:-1 tvg-name="AZADTV.az" group-title="🇦🇿 Azərbaycan – Digər",Azad TV
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
+#EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="🇦🇿 Azərbaycan – Xəbər",Baku TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+#EXTINF:-1 tvg-name="CBCSPORT.az" group-title="🇦🇿 Azərbaycan – Digər",CBC Sport
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1 tvg-name="DUNYATV.az" group-title="🇦🇿 Azərbaycan – Digər",Dünya TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+#EXTINF:-1 tvg-name="ELTV.az" group-title="🇦🇿 Azərbaycan – Digər",EL TV
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 tvg-name="KANALSTV.az" group-title="🇦🇿 Azərbaycan – Digər",Kanal S
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
+#EXTINF:-1 tvg-name="MTV.az" group-title="🇦🇿 Azərbaycan – Digər",MTV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mtv-azerbaycan.m3u8
+#EXTINF:-1 tvg-name="SPACETV.az" group-title="🇦🇿 Azərbaycan – Digər",Space TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+#EXTINF:-1 tvg-name="VIPTV.az" group-title="🇦🇿 Azərbaycan – Digər",VIP TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
+#EXTINF:-1 tvg-name="XEZERTV.az" group-title="🇦🇿 Azərbaycan – Digər",Xəzər TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:-1 tvg-name="APATV.az" group-title="🇦🇿 Azərbaycan – Digər",APA TV
+http://rtmp.apa.tv/@pagroup!23.m3u8
 
-#EXTINF:-1 group-title="Sinema",SiNEMA 1
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sinema",Sinema TV
+############################
+# 🇹🇷 TÜRKİYƏ – ƏSAS KANALLAR
+############################
+#EXTINF:-1 tvg-id="TRT 1.tr" group-title="🇹🇷 Türkiyə – Əsas",TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ATV HD.tr" group-title="🇹🇷 Türkiyə – Əsas",ATV HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 group-title="🇹🇷 Türkiyə – Əsas",NOW TV
+https://streams.uzunmuhalefet.com/stream/f9368c57-16e5-44a2-a559-46377a476b04.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr" group-title="🇹🇷 Türkiyə – Əsas",Kanal D HD
+https://demiroren.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 tvg-id="STAR TV.tr" group-title="🇹🇷 Türkiyə – Əsas",Star TV HD
+https://dogus.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-id="SHOW TV.tr" group-title="🇹🇷 Türkiyə – Əsas",Show TV HD
+https://ciner.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-name="TV 8" group-title="🇹🇷 Türkiyə – Əsas",TV 8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-name="EURO D" group-title="🇹🇷 Türkiyə – Əsas",EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+
+############################
+# 🇹🇷 TÜRKİYƏ – FİLM & DİZİ
+############################
+#EXTINF:-1 group-title="🎬 Film & Dizi",Sinema TV
 http://65.108.239.207/sinema/index.m3u8
-#EXTINF:-1 group-title="Sinema",Sinema Aile
+#EXTINF:-1 group-title="🎬 Film & Dizi",Sinema Aile
 http://65.108.239.207/sinemaaile/index.m3u8
-#EXTINF:-1 group-title="Sinema",Sinema Aksiyon
+#EXTINF:-1 group-title="🎬 Film & Dizi",Sinema Aksiyon
 http://65.108.239.207/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Dizi", Tabii TV HD
+#EXTINF:-1 group-title="🎬 Film & Dizi",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 group-title="7/24 Dizi",Kurtlar Vadisi
+#EXTINF:-1 group-title="🎬 Film & Dizi",Kurtlar Vadisi
 https://streams.uzunmuhalefet.com/stream/e3e1cf14-7d3c-4714-a1e8-df7634677c43.m3u8
-#EXTINF:-1 group-title="7/24 Dizi",Kurtlar Vadisi: Pusu
+#EXTINF:-1 group-title="🎬 Film & Dizi",Kurtlar Vadisi: Pusu
 https://streams.uzunmuhalefet.com/stream/e353cef4-1578-4bec-8d67-ad93cbd8e90c.m3u8
 
-#EXTINF:-1 group-title="Müzik",POWER TURK
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
-#EXTINF:-1 group-title="Müzik",POWER TURK SLOW
-https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 group-title="Müzik",POWER TV AKUSTiK
-https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 group-title="Müzik",POWER TURK TAPTAZE
-https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 group-title="Müzik",POWER DANCE
-https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 group-title="Müzik",POWER LOVE
-https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 group-title="Müzik",NR1
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
-
-#EXTINF:-1 group-title="Belgesel", BBC EARTH HD
+############################
+# 📚 SƏNƏDLİ
+############################
+#EXTINF:-1 group-title="📚 Sənədli",BBC Earth
 https://ds.ayakkabiparti.lol/bbc/index.m3u8
-#EXTINF:-1 group-title="Belgesel", HISTORY HD
+#EXTINF:-1 group-title="📚 Sənədli",History
 https://ds.ayakkabiparti.lol/history/index.m3u8
-#EXTINF:-1 group-title="YABANCITV",EUROSPORT 1
+#EXTINF:-1 group-title="📚 Sənədli",Eurosport 1
 http://62.131.195.211:8086/8.ts
 
+############################
+# 🎵 MUSİQİ
+############################
+#EXTINF:-1 group-title="🎵 Musiqi",Power Türk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
+#EXTINF:-1 group-title="🎵 Musiqi",Power Türk Slow
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 group-title="🎵 Musiqi",Power Dance
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="🎵 Musiqi",NR1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
