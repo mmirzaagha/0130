@@ -1,804 +1,116 @@
-#EXTM3U
-
-# --- Azərbaycan Kanalları ---
-
-#EXTINF:-1 tvg-id="AlvinChannelTV.az" tvg-logo="https://i.imgur.com/m6CM7VU.png" group-title="General",Alvin Channel TV (360p) [Not 24/7]
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" | SON GÜNCELLENME 27.06.2025 | Donate Lightning SATS: Digiseytan@WALLETOFSATOSHi.COM 
+#EXTINF:-1 tvg-name="AlvinChannelTV.az" group-title="AZERBAYCAN YAYINLAR",Alvin Channel TV (360p) [Not 24/7]
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="APATv.az@SD" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="News",APA Tv
+#EXTINF:-1 tvg-name="Arb.az" group-title="AZERBAYCAN YAYINLAR",ARB
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:-1 tvg-name="ARBGUNES.az" group-title="AZERBAYCAN YAYINLAR",ARB Gunes
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:-1 tvg-name="AZADTV.az" group-title="AZERBAYCAN YAYINLAR",Azad TV
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
+#EXTINF:-1 tvg-name="AzstarTV.az" group-title="AZERBAYCAN YAYINLAR",Azstar TV
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:-1 tvg-name="BAKUTV.az" group-title="AZERBAYCAN YAYINLAR",Baku TV (720p)
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+#EXTINF:-1 tvg-name="CBCSPORT.az" group-title="AZERBAYCAN YAYINLAR",CBC Sport [Geo-blocked]
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1 tvg-name="DUNYATV.az" group-title="AZERBAYCAN YAYINLAR",Dunya TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+#EXTINF:-1 tvg-name="ELTV.az" group-title="AZERBAYCAN YAYINLAR",EL TV (260p) [Not 24/7]
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 tvg-name="KANALSTV.az" group-title="AZERBAYCAN YAYINLAR",Kanal S TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
+#EXTINF:-1 tvg-name="MCJTV.az" group-title="AZERBAYCAN YAYINLAR",MCJ TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mcj-tv-shop.m3u8
+#EXTINF:-1 tvg-name="MEDENIYETTV.az" group-title="AZERBAYCAN YAYINLAR",Medeniyyet TV (406p)
+https://str.yodacdn.net/medeniyyet/index.m3u8
+#EXTINF:-1 tvg-name="MTV.az" group-title="AZERBAYCAN YAYINLAR",MTV TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mtv-azerbaycan.m3u8
+#EXTINF:-1 tvg-name="SPACETV.az" group-title="AZERBAYCAN YAYINLAR",Space TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+#EXTINF:-1 tvg-name="VIPTV.az" group-title="AZERBAYCAN YAYINLAR",VIP TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
+#EXTINF:-1 tvg-name="XEZERTV.az" group-title="AZERBAYCAN YAYINLAR",Xezer TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:-1 tvg-name="APATV.az" group-title="AZERBAYCAN YAYINLAR",APA Tv
 http://rtmp.apa.tv/@pagroup!23.m3u8
 
-#EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="News",ARB 24
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
-
-#EXTINF:-1 tvg-id="ARBGunes.az" tvg-logo="https://i.imgur.com/dSg7KUK.png" group-title="Kids",ARB Gunes
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-
-#EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.postimg.cc/Vkbmrxkj/aztv.png" group-title="General",Az TV (1080p)
-https://str.yodacdn.net/aztv/index.m3u8
-
-#EXTINF:-1 tvg-id="AzadTV.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="General",Azad TV
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
-
-#EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="News",Baku TV (720p)
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
-
-#EXTINF:-1 tvg-id="CBCSport.az" tvg-logo="https://i.postimg.cc/cCw5NG7c/cbcsport.png" group-title="Sports",CBC Sport [Geo-blocked]
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DunyaTV.az" tvg-logo="https://i.postimg.cc/25h8qVxd/dunyatv.png" group-title="General",Dunya TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
-
-#EXTINF:-1 tvg-id="ELTV.az" tvg-logo="https://i.imgur.com/tTlokZ2.png" group-title="General",EL TV (260p) [Not 24/7]
-http://85.132.53.162:1935/live/eltv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="General",Ictimai TV
-https://live.itv.az/itv.m3u8
-
-#EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/PlvaDIa.png" group-title="Culture",Medeniyyet TV (406p)
-https://str.yodacdn.net/medeniyyet/index.m3u8
-
-#EXTINF:-1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="General",Space TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-
-#EXTINF:-1 tvg-id="XezerTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png" group-title="General",Xezer TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-
-#EXTINF:-1 group-title="General",Könül TV1
-http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
-
-# --- Türk Kanalları ---
-
-#EXTINF:-1 group-title="Turkey General",ATV (720p)
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Turkey General",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1 group-title="Turkey General",NOW TV
-http://116.202.238.88/FOXTV_TR/index.m3u8
-#EXTINF:-1 group-title="Turkey General",Show TV
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1 group-title="Turkey General",Star TV
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1 group-title="Turkey General",Teve2
-https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:-1 group-title="Turkey General",TRT 1
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-#EXTINF:-1 group-title="Turkey General",Kanal 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 group-title="Turkey General",360 TV HD
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 group-title="Turkey General",BEYAZ TV FHD
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-
-#EXTINF:-1 group-title="Turkey Music",Kral Pop TV
-https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:-1 group-title="Turkey Music",KRAL POP TV HD
-https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
-#EXTINF:-1 group-title="Turkey Music",DREAM TURK HD
-https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 group-title="Turkey Music",NR 1 TURK HD
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
-#EXTINF:-1 group-title="Turkey Music",NR 1 TV HD
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
-#EXTINF:-1 group-title="Turkey Music",POWER TV Akustik
-https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 group-title="Turkey Music",POWER Dance HD
-https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 group-title="Turkey Music",POWER Love HD
-https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Turkey Documentary",TRT BELGESEL HD
-https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
-#EXTINF:-1 group-title="Turkey Kids",Minika Go
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4NzY5Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwibCI6IjRmMGM2YTc4IiwicCI6IjRmMGM2YTc4YWU2YTdhODUiLCJjIjoiMTAxOSIsInQiOiIyOTkzMDUzN2JhZjE1Mjc2Y2VmMzI3MThiZmE2NjczNCIsImQiOiIxOTM1NzgiLCJyIjoiMTk3Mzk1IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15Lzg3NjkvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
-#EXTINF:-1 group-title="Turkey Kids",Minika Çocuk
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4ODE1Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwibCI6IjRmMGM2YTc4IiwicCI6IjRmMGM2YTc4YWU2YTdhODUiLCJjIjoiMTAzMCIsInQiOiIyOTkzMDUzN2JhZjE1Mjc2Y2VmMzI3MThiZmE2NjczNCIsImQiOiIxOTM1NzgiLCJyIjoiMTk3Mzk1IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15Lzg4MTUvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
-
-
-# --- Rus Kanalları ---
-
-#EXTM3U
-#EXTINF:-1 group-title="Rus/Kino",Детское кино International
-https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",Kinokazka
-http://95.67.12.82:9084/
-#EXTINF:-1 group-title="Rus/Kino",Кино- Последний концерт в Лужниках
-https://v2.catcast.tv/videos/ch40908/171120210453_112762/video.mp4
-#EXTINF:-1 group-title="Rus/Kino",Музыка Кино International
-http://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",Музыка Кино International
-http://autopilot.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",Киносемья HD
-http://195.64.140.147:10042/42
-#EXTINF:-1 group-title="Rus/Kino",Киноужас
-http://195.64.140.147:10043/43
-#EXTINF:-1 group-title="Rus/Kino",Киномикс
-http://195.64.140.147:10044/44
-#EXTINF:-1 group-title="Rus/Kino",Киносвидание
-http://195.64.140.147:10045/45
-#EXTINF:-1 group-title="Rus/Kino",Кинохит HD
-http://195.64.140.147:10046/46
-#EXTINF:-1 group-title="Rus/Kino",Кинокомедия
-http://195.64.140.147:10047/47
-#EXTINF:-1 group-title="Rus/Kino",Киносерия
-http://195.64.140.147:10048/48
-#EXTINF:-1 group-title="Rus/Kino",Индийское кино
-http://195.64.140.147:10049/49
-#EXTINF:-1 group-title="Rus/Kino",Кино ТВ HD
-http://195.64.140.147:10050/50
-#EXTINF:-1 group-title="Rus/Kino",Родное кино
-http://195.64.140.147:10052/52
-#EXTINF:-1 group-title="Rus/Kino",Наше новое кино
-http://195.64.140.147:10053/53
-#EXTINF:-1 group-title="Rus/Kino",Cinema HD
-http://195.64.140.147:10055/55
-#EXTINF:-1 group-title="Rus/Kino",Дом Кино
-http://195.64.140.147:10057/57
-#EXTINF:-1 group-title="Rus/Kino",Amedia 2
-http://195.64.140.147:10060/60
-#EXTINF:-1 group-title="Rus/Kino",Movie ClassicHD
-http://195.64.140.147:10061/61
-#EXTINF:-1 group-title="Rus/Kino",Shot tv
-http://195.64.140.147:10062/62
-#EXTINF:-1 group-title="Rus/Kino",TV1000
-http://195.64.140.147:10067/67
-#EXTINF:-1 group-title="Rus/Kino",TV1000 action
-http://195.64.140.147:10068/68
-#EXTINF:-1 group-title="Rus/Kino",Еврокино
-http://195.64.140.147:10088/88
-#EXTINF:-1 group-title="Rus/Kino",Любимое кино
-http://195.64.140.147:10091/91
-#EXTINF:-1 group-title="Rus/Kino",Иллюзион
-http://195.64.140.147:10093/93
-#EXTINF:-1 group-title="Rus/Kino",Иллюзион+
-http://195.64.140.147:10090/90
-#EXTINF:-1 group-title="Rus/Kino",Amedia 1
-http://185.78.112.17/amedia/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",Amedia Hit HD
-http://185.78.112.17/amedia_hit_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",Amedia Premium HD
-http://185.78.112.17/amedia_premium_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",ДОМ КИНО
-http://185.78.112.17/dom_kino/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",КИНО ТВ
-http://185.78.112.17/kino-tv/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",КИНО ТВ HD
-http://185.78.112.17/kino_tv_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",КИНОПОКАЗ
-http://185.78.112.17/kinopokaz/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",МУЖСКОЕ КИНО HD
-http://185.78.112.17/muzhskoe-kino_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",НАШЕ НОВОЕ КИНО HD
-http://185.78.112.17/nashe-novoe-kino/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",РОДНОЕ КИНО
-http://185.78.112.17/nashe-kino/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",ИНДИЙСКОЕ КИНО
-http://185.78.112.17/indiya/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",КИНОМИКС HD
-http://185.78.112.17/kinomix/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",КИНОПРЕМЬЕРА
-http://185.78.112.17/premiera/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",КИНОСВИДАНИЕ
-http://185.78.112.17/kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",КИНОСЕМЬЯ HD
-http://185.78.112.17/kinosemya/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",КИНОСЕРИЯ
-http://185.78.112.17/mnogo-tv/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",КИНОУЖАС
-http://185.78.112.17/kinoujas/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",КИНОХИТ HD
-http://185.78.112.17/kinohit/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",Мосфильм. Золотая коллекция
-http://185.78.112.17/mosfilm/index.m3u8
-#EXTINF:-1 group-title="Rus/Kino",TV1000 Р КИНО
-http://185.78.112.17/tv1000rus/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",Кнопка ТВ
-http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",В гостях у сказки HD
-http://95.85.109.219:7000/play/a09b
-#EXTINF:-1 group-title="Rus/Ümumi",Нікчемний Я 4 2024 професійний дубльований
-https://calypso.tortuga.tw/content/stream/films/despicable.me.4.2024.bdremux.1080p.ledoyen.dub_102367/hls/1080/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",FILM TV Леді Баг & Щенячий патруль.
-http://filmtv.zapto.org/ledsbag_schenaychiy_patrul/video.m3u8?token=Ijb9BSWre2eLJ3
-#EXTINF:-1 group-title="Rus/Ümumi",Король Лев 3|2004|Хакуна Матата|Австралія|США
-https://zetvideo.net/content/stream/films/the.lion.king.3.2004.bdremux.1080p.ukr.eng_17258/hls/1080/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",Солнце
-http://93.125.121.61:8383/play/a02o
-#EXTINF:-1 group-title="Rus/Ümumi",СУПЕР ГЕРОЙ SD
-http://141.95.55.143/CH877/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",Наше Радіо
-http://online.nasheradio.ua/NasheRadio
-#EXTINF:-1 group-title="Rus/Ümumi",Наше Радіо Live
-http://online.nasheradio.ua/NasheRadio_Live
-#EXTINF:-1 group-title="Rus/Ümumi",Промінь (UA)
-http://portal.ott.pink/watch/201/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 group-title="Rus/Ümumi",Шансон
-https://streaming.goodstream.cyou/live/7009.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",Кулинар ТВ
-http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",КУХНЯ-ТВ
-http://178.124.152.238:8088/kuhnya
-#EXTINF:-1 group-title="Rus/Ümumi",OstWest 24
-http://95.67.12.82:9077
-#EXTINF:-1 group-title="Rus/Ümumi",Euronews RU
-http://95.85.109.219:7000/play/a071
-#EXTINF:-1 group-title="Rus/Ümumi",Russischer Jahrmarkt
-https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",Каббала
-http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ДОЖДЬ
-https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",НСТВ
-http://195.64.140.147:10054/54
-#EXTINF:-1 group-title="Rus/Ümumi",Сапфир
-http://195.64.140.147:10056/56
-#EXTINF:-1 group-title="Rus/Ümumi",Бестселлер
-http://195.64.140.147:10075/75
-#EXTINF:-1 group-title="Rus/Ümumi",Детектив
-http://195.64.140.147:10077/77
-#EXTINF:-1 group-title="Rus/Ümumi",План Б
-http://195.64.140.147:10082/82
-#EXTINF:-1 group-title="Rus/Ümumi",Мир Сериала
-http://195.64.140.147:10089/89
-#EXTINF:-1 group-title="Rus/Ümumi",НОСТАЛЬГИЯ
-http://195.64.140.147:10167/167
-#EXTINF:-1 group-title="Rus/Ümumi",ПРОДВИЖЕНИЕ
-http://195.64.140.147:10142/142
-#EXTINF:-1 group-title="Rus/Ümumi",ВРЕМЯ
-http://195.64.140.147:10166/166
-#EXTINF:-1 group-title="Rus/Ümumi",КВН
-http://195.64.140.147:10138/138
-#EXTINF:-1 group-title="Rus/Ümumi",Белрос
-http://195.64.140.147:10164/164
-#EXTINF:-1 group-title="Rus/Ümumi",IZ
-http://195.64.140.147:10185/185
-#EXTINF:-1 group-title="Rus/Ümumi",Домашний
-http://195.64.140.147:10018/18
-#EXTINF:-1 group-title="Rus/Ümumi",Кухня
-http://195.64.140.147:10037/37
-#EXTINF:-1 group-title="Rus/Ümumi",Евроопа+
-http://195.64.140.147:10036/36
-#EXTINF:-1 group-title="Rus/Ümumi",Суббота
-http://195.64.140.147:10041/41
-#EXTINF:-1 group-title="Rus/Ümumi",Мир баскетбола
-http://195.64.140.147:10111/111
-#EXTINF:-1 group-title="Rus/Ümumi",Боец
-http://195.64.140.147:10097/97
-#EXTINF:-1 group-title="Rus/Ümumi",RTG HD
-http://195.64.140.147:10159/159
-#EXTINF:-1 group-title="Rus/Ümumi",Моя планета
-http://195.64.140.147:10161/161
-#EXTINF:-1 group-title="Rus/Ümumi",ЗООПАРК
-http://195.64.140.147:10170/170
-#EXTINF:-1 group-title="Rus/Ümumi",ЗЖ
-http://195.64.140.147:10180/180
-#EXTINF:-1 group-title="Rus/Ümumi",ДОКТОР
-http://195.64.140.147:10177/177
-#EXTINF:-1 group-title="Rus/Ümumi",ЗДОРОВОЕ ТВ 2
-http://195.64.140.147:10171/171
-#EXTINF:-1 group-title="Rus/Ümumi",ЖИВИ
-http://195.64.140.147:10178/178
-#EXTINF:-1 group-title="Rus/Ümumi",БОЛЬШАЯ АЗИЯ
-http://195.64.140.147:10175/175
-#EXTINF:-1 group-title="Rus/Ümumi",НАША ТЕМА
-http://195.64.140.147:10172/172
-#EXTINF:-1 group-title="Rus/Ümumi",ПОЕХАЛИ
-http://195.64.140.147:10168/168
-#EXTINF:-1 group-title="Rus/Ümumi",КТО ЕСТЬ КТО
-http://195.64.140.147:10165/165
-#EXTINF:-1 group-title="Rus/Ümumi",И
-http://195.64.140.147:10156/156
-#EXTINF:-1 group-title="Rus/Ümumi",TLC
-http://195.64.140.147:10137/137
-#EXTINF:-1 group-title="Rus/Ümumi",TLC HD
-http://195.64.140.147:10148/148
-#EXTINF:-1 group-title="Rus/Ümumi",TERA
-http://195.64.140.147:10150/150
-#EXTINF:-1 group-title="Rus/Ümumi",78 HD
-http://195.64.140.147:10038/38
-#EXTINF:-1 group-title="Rus/Ümumi",Диалоги о рыбалке
-http://195.64.140.147:10117/117
-#EXTINF:-1 group-title="Rus/Ümumi",ДИКИЙ охота и рыбалка
-http://195.64.140.147:10139/139
-#EXTINF:-1 group-title="Rus/Ümumi",Охотник и рыболов HD
-http://195.64.140.147:10162/162
-#EXTINF:-1 group-title="Rus/Ümumi",Супер герои
-http://195.64.140.147:10130/130
-#EXTINF:-1 group-title="Rus/Ümumi",БОБЕР
-http://195.64.140.147:10163/163
-#EXTINF:-1 group-title="Rus/Ümumi",RTG TV
-http://185.78.112.17/rtg/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",RTG HD
-http://185.78.112.17/rtg_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",Экстрим
-http://185.78.112.17/rus-extrim-hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",TERRA HD
-http://185.78.112.17/natgeo_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",МОЯ ПЛАНЕТА
-http://185.78.112.17/moya_planeta/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",МОЯ ПЛАНЕТА HD
-http://185.78.112.17/planeta_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",Рыболов
-http://185.78.112.17/ohotnik/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ПОЕХАЛИ!
-http://185.78.112.17/Poehali/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ОХОТНИК И РЫБОЛОВ HD
-http://185.78.112.17/ohot_i_rybolov_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ТЕЛЕПУТЕШЕСТВИЯ
-http://185.78.112.17/teleputeshestviya/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",Приключения HD
-http://185.78.112.17/teletravel_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ТЕХНО 24
-http://185.78.112.17/t24/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",НАНО ТВ
-http://185.78.112.17/nano-tv/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",НАНО ТВ HD
-http://185.78.112.17/nano_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",БОЛЬШАЯ АЗИЯ HD
-http://185.78.112.17/world-fashion/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ИСТОРИЯ
-http://185.78.112.17/istoriya/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ГЛАЗАМИ ТУРИСТА HD
-http://185.78.112.17/glazami_turista_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ЖИВАЯ ПЛАНЕТА
-http://185.78.112.17/zhivaya-planeta/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ДОКТОР HD
-http://185.78.112.17/doctor/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",AKIMEDIA
-http://185.78.112.17:8077/KTV/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",Gags Network
-http://185.78.112.17/raz-tv/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",78 канал
-http://185.78.112.17/life78/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ДОМАШНИЙ
-http://185.78.112.17/domashniy/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ДОМАШНИЙ HD
-http://185.78.112.17/domashniy_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ЕДА HD
-http://185.78.112.17/eda_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ЖИВИ
-http://185.78.112.17/jivi/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ЗОО ТВ
-http://185.78.112.17/zoo_tv/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",КВН ТВ
-http://185.78.112.17/kvn_tv/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",КИНЕКО
-http://185.78.112.17/fox/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",КИНЕКО HD
-http://185.78.112.17/fox_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",КОМЕДИЯ HD
-http://185.78.112.17/komediya/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",НАША ТЕМА HD
-http://185.78.112.17/nasha_tema_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",НОСТАЛЬГИЯ
-http://185.78.112.17/nostalgia/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",НСТ
-http://185.78.112.17/nstv/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ПЕС И КО
-http://185.78.112.17/pes_i_ko/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ПРОСВЕЩЕНИЕ
-http://185.78.112.17/prosveshenie/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ПЯТНИЦА
-http://185.78.112.17/Pyatnica/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ПЯТНИЦА HD
-http://185.78.112.17/pyatnica_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",БЕСТСЕЛЛЕР
-http://185.78.112.17/rus-bestseller/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ДЕТЕКТИВ
-http://185.78.112.17/rus-detective/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",РОМАН
-http://185.78.112.17/rus-roman/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",РОМАН HD
-http://185.78.112.17/russki_roman_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",СТС HD
-http://185.78.112.17/sts_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",СТС Love
-http://185.78.112.17/sts-love/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",СУББОТА
-http://185.78.112.17/super/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ТВ3
-http://185.78.112.17/tv3/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ТВ3 HD
-http://185.78.112.17/tv3_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ТОЧКА ТВ
-http://185.78.112.17/tochka/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",ЧЕ
-http://185.78.112.17/che/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",Ю
-http://185.78.112.17/utv/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",О!
-http://185.78.112.17/o_/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",РАДОСТЬ МОЯ
-http://185.78.112.17/radost-moya/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",МАМА
-http://185.78.112.17/mama/index.m3u8
-#EXTINF:-1 group-title="Rus/Ümumi",СОЛНЦЕ
-http://185.78.112.17/disney/index.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Nashe Radio
-http://online.nasheradio.ua/NasheRadio_HD
-#EXTINF:-1 group-title="Rus/Musiqi",Nashe Radio UktTop100
-http://online.nasheradio.ua/NasheRadio_Ukr_HD
-#EXTINF:-1 group-title="Rus/Musiqi",80s Maxi Mix radio
-http://stream.laut.fm:80/maximix
-#EXTINF:-1 group-title="Rus/Musiqi",NEW 80S
-http://141.95.55.143/CH8195/index.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Музыка 1 International
-http://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Музыка 2 International
-http://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Музыка 1 International
-http://autopilot.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Музыка 2 International
-http://autopilot.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Radio Iglesias
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Radio 51
-https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",POP World TV (720p)
-https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Euro Indie Music Chart
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",RETRO WAVE UA TV
-http://filmtv.zapto.org/RETROWAVEUATV/video.m3u8?token=Ijb9BSWre2eLJ3
-#EXTINF:-1 group-title="Rus/Musiqi",TRANCE IS STAR RADIO
-https://myradio24.org/tisradio_video.m3u8?secret=FILM_TV_GROUP?token=ZmlsbXR2Z3JvdXB8fE1USXdOVEU1T0RKSGNrRm0=
-#EXTINF:-1 group-title="Rus/Musiqi",DJUA
-http://filmtv.zapto.org/DJUA/video.m3u8?token=Ijb9BSWre2eLJ3
-#EXTINF:-1 group-title="Rus/Musiqi",RADIO
-http://filmtv.zapto.org/radio/video.m3u8?token=Ijb9BSWre2eLJ3
-#EXTINF:-1 group-title="Rus/Musiqi",FILM TV MUSIC
-http://filmtv.zapto.org/FILMTVMUSIC/video.m3u8?token=Ijb9BSWre2eLJ3
-#EXTINF:-1 group-title="Rus/Musiqi",Happy Radio TV
-https://tv.mediacp.eu:8081/happyradio/index.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Первый Музыкальный HD
-http://rtmp.one.by:2200
-#EXTINF:-1 group-title="Rus/Musiqi",POP STAR
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Trace Urban HD
-https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Ocko Star
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Kronehit TV
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Afrobeats
-https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Reload Radio Music Power HD
-http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Best of Dance TV
-https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Groove Radio
-https://streams.radio.co/s14193ab17/listen
-#EXTINF:-1 group-title="Rus/Musiqi",V2BEAT
-https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Qello Concerts by Stingray
-https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Stingray Classic Rock
-https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Stingray Classica
-https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Stingray CMusic
-https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Stingray DJAZZ
-https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Stingray Easy Listening
-https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Stingray Flashback 70s
-https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Stingray Hit List
-https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Stingray Holiday Hits
-https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Stingray Hot Country
-https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Stingray Karaoke
-https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Stingray Nothin' But 90s
-https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Stingray Remember the 80s
-https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Stingray Rock Alternative
-https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Stingray Romance Latino
-https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Stingray Smooth Jazz
-https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Stingray Soul Storm
-https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Stingray The Spa
-https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Stingray Today's KPOP
-https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Stingray Today's Latin Pop
-https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Stingray Urban Beat
-https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",7X MUSIC
-https://stream.e2is.in/hls/7xMusic.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Kiss Kiss TV HD
-https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Kiss Kiss Italia HD
-https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",Kiss Kiss Napoli HD
-https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Rus/Musiqi",NR1 DANCE HD
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/439284
-#EXTINF:-1 group-title="Rus/Musiqi",NR1 DANCE HD
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/439188
-#EXTINF:-1 group-title="Rus/Musiqi",MTV 00s
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/132726
-#EXTINF:-1 group-title="Rus/Musiqi",MTV 80s
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/360620
-#EXTINF:-1 group-title="Rus/Musiqi",MTV 90s
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/230486
-#EXTINF:-1 group-title="Rus/Musiqi",MTV Hits HD
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/227566
-#EXTINF:-1 group-title="Rus/Musiqi",MTV Live
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/330018
-#EXTINF:-1 group-title="Rus/Musiqi",20 МУЗ ТВ
-http://195.64.140.147:10017/17
-#EXTINF:-1 group-title="Rus/Musiqi",МУЛЬТМУЗЫКА
-http://195.64.140.147:10134/134
-#EXTINF:-1 group-title="Rus/Idman",Eurosport 1 HD
-http://195.64.140.147:10114/114
-#EXTINF:-1 group-title="Rus/Idman",Eurosport 2 HD
-http://195.64.140.147:10115/115
-#EXTINF:-1 group-title="Rus/Idman",Спорт!Футбол1 HD
-http://195.64.140.147:10100/100
-#EXTINF:-1 group-title="Rus/Idman",Спорт!Футбол2 HD
-http://195.64.140.147:10101/101
-#EXTINF:-1 group-title="Rus/Idman",Спорт!Футбол3 HD
-http://195.64.140.147:10102/102
-#EXTINF:-1 group-title="Rus/Idman",Спорт!Арена
-http://195.64.140.147:10096/96
-#EXTINF:-1 group-title="Rus/Idman",Спорт!Страна
-http://195.64.140.147:10099/99
-#EXTINF:-1 group-title="Rus/Idman",KHL PRIME
-http://195.64.140.147:10109/109
-#EXTINF:-1 group-title="Rus/Idman",viju Sport
-http://195.64.140.147:10113/113
-#EXTINF:-1 group-title="Rus/Idman",Футбол
-http://195.64.140.147:10107/107
-#EXTINF:-1 group-title="Rus/Idman",Arena sport2 HD sl
-http://195.64.140.147:10098/98
-#EXTINF:-1 group-title="Rus/Idman",ZIGGO Sport Dutch
-http://195.64.140.147:10116/116
-#EXTINF:-1 group-title="Rus/Idman",KHL
-http://185.78.112.17/khl/index.m3u8
-#EXTINF:-1 group-title="Rus/Idman",KHL HD
-http://185.78.112.17/khl_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Idman",МАТЧ ТВ
-http://185.78.112.17/match/index.m3u8
-#EXTINF:-1 group-title="Rus/Idman",МАТЧ HD
-http://185.78.112.17/match_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Idman",СПОРТ! АРЕНА
-http://185.78.112.17/arena/index.m3u8
-#EXTINF:-1 group-title="Rus/Idman",СПОРТ! АРЕНА HD
-http://185.78.112.17/arena_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Idman",СПОРТ! ИГРА
-http://185.78.112.17/match-igra/index.m3u8
-#EXTINF:-1 group-title="Rus/Idman",СПОРТ! ИГРА HD
-http://185.78.112.17/match_igra_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Idman",Матч Премьер HD
-http://185.78.112.17/nash_football_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Idman",МАТЧ ПРЕМЬЕР
-http://185.78.112.17/nash-football/index.m3u8
-#EXTINF:-1 group-title="Rus/Idman",СПОРТ! ФУТБОЛ 1 HD
-http://185.78.112.17/football1_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Idman",СПОРТ! ФУТБОЛ 2 HD
-http://185.78.112.17/football2_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Idman",СПОРТ! ФУТБОЛ 3 HD
-http://185.78.112.17/football3_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Idman",ФУТБОЛ HD
-http://185.78.112.17/football/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",TiJi
-http://193.27.209.122/tiji/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",Мультиландия
-http://217.11.177.55/streams/media/multilandiya_720x576/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",УНИКУМ
-http://158.101.222.193:88/georgia_play.php?id=unikum
-#EXTINF:-1 group-title="Rus/Uşaq",Карусель
-http://95.85.109.219:7000/play/a08p
-#EXTINF:-1 group-title="Rus/Uşaq",Мульт
-http://95.85.109.219:7000/play/a096
-#EXTINF:-1 group-title="Rus/Uşaq",RED JUNIOR HD
-http://95.85.109.219:7000/play/a06g
-#EXTINF:-1 group-title="Rus/Uşaq",Карусель
-https://streaming.goodstream.cyou/live/232.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",Чип и Дейл
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",CHD TV
-http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",FILM TV GROUP МультКазки
-http://filmtv.zapto.org/FILM_TV_GROUP_multkazki/video.m3u8?token=Ijb9BSWre2eLJ3
-#EXTINF:-1 group-title="Rus/Uşaq",Том і Джеррі-Історія Лускунчика|2007|47 хв|США|мультфільм
-https://zetvideo.net/content/stream/films/tom_and_jerry._a_nutcracker_tale_2007_webdl_1080p_2xukr_eng_hurtom_26704/hls/1080/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",КАРУСЕЛЬ
-http://217.21.34.160:38005/karusel/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",ДЕТСКИЙ МИР
-http://217.21.34.160:38007/detmir/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",Уникум
-http://93.125.121.61:8383/play/a021
-#EXTINF:-1 group-title="Rus/Uşaq",Мультиландия
-http://93.125.121.61:8383/play/a02j
-#EXTINF:-1 group-title="Rus/Uşaq",Cartoon Classics
-http://93.125.121.61:8383/play/a00s
-#EXTINF:-1 group-title="Rus/Uşaq",Мульт
-http://93.125.121.61:8383/play/a00u
-#EXTINF:-1 group-title="Rus/Uşaq",Детский мир
-http://93.125.121.61:8383/play/Intelsat85k1220
-#EXTINF:-1 group-title="Rus/Uşaq",Cartoon_Network
-http://46.8.46.14/Cartoon_Network/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",mama
-http://46.8.46.14/mama/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",Nickelodeon
-http://46.8.46.14/Nickelodeon/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",Gulli
-http://46.8.46.14/Gulli/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",ПЛЮС ПЛЮС HD
-http://141.95.55.143/CH3285/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",ПІКСЕЛЬ HD
-http://141.95.55.143/CH3317/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",MAMA
-http://195.64.140.147:10127/127
-#EXTINF:-1 group-title="Rus/Uşaq",УНИКУМ
-http://195.64.140.147:10131/131
-#EXTINF:-1 group-title="Rus/Uşaq",МУЛЬТ
-http://195.64.140.147:10132/132
-#EXTINF:-1 group-title="Rus/Uşaq",МУЛЬТЛАНДИЯ
-http://195.64.140.147:10135/135
-#EXTINF:-1 group-title="Rus/Uşaq",Gulli Girl
-http://195.64.140.147:10122/122
-#EXTINF:-1 group-title="Rus/Uşaq",TIJI
-http://195.64.140.147:10128/128
-#EXTINF:-1 group-title="Rus/Uşaq",O!
-http://195.64.140.147:10124/124
-#EXTINF:-1 group-title="Rus/Uşaq",Nickelodeon
-http://195.64.140.147:10121/121
-#EXTINF:-1 group-title="Rus/Uşaq",УНИКУМ
-http://185.78.112.17/detskiy/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",СТС kids HD
-http://185.78.112.17/sts_kids/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",РЫЖИЙ
-http://185.78.112.17/ryzhiy/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",Супергерои
-http://185.78.112.17/malish/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",МУЛЬТ
-http://185.78.112.17/mult/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",МУЛЬТ HD
-http://185.78.112.17/thlum_hd/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",КАРУСЕЛЬ
-http://185.78.112.17/karusel/index.m3u8
-#EXTINF:-1 group-title="Rus/Uşaq",Мультиландия
-http://185.78.112.17/multimania/index.m3u8
-#EXTINF:-1 group-title="Other",Duck TV HD
-http://193.27.209.122/ducktv/index.m3u8
-#EXTINF:-1 group-title="Other",HGTN
-https://v2.catcast.tv/content/34251/index.m3u8
-#EXTINF:-1 group-title="Other",davinci
-http://158.101.222.193:88/georgia_play.php?id=davinci
-#EXTINF:-1 group-title="Other",Carousel International
-https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
-#EXTINF:-1 group-title="Other",Karusel
-http://46.8.46.14/Karusel/index.m3u8
-#EXTINF:-1 group-title="Other",2x2
-http://46.8.46.14/2x2/index.m3u8
-#EXTINF:-1 group-title="Other",+O
-http://46.8.46.14/utv/index.m3u8
-#EXTINF:-1 group-title="Other",Niki Junior HD
-http://141.95.55.143/CH1965/index.m3u8
-#EXTINF:-1 group-title="Other",NIKI KIDS HD
-http://141.95.55.143/CH8035/index.m3u8
-#EXTINF:-1 group-title="Other",mcm_top
-http://193.27.209.122/mcm_top/index.m3u8
-#EXTINF:-1 group-title="Other",TRASE URBAN
-http://95.67.12.82:9068
-#EXTINF:-1 group-title="Other",Club 85
-http://stream.laut.fm:80/club85
-#EXTINF:-1 group-title="Other",90s
-http://prmstrm.1.fm:8000/90s
-#EXTINF:-1 group-title="Other",80-90s hits
-http://prmstrm.1.fm:8000/80s_90s
-#EXTINF:-1 group-title="Other",60s_70s
-http://prmstrm.1.fm:8000/60s_70s
-#EXTINF:-1 group-title="Other",70-80 TV [it]
-https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-#EXTINF:-1 group-title="Other",La Urban TV
-https://urbanrevolution.es:8443/live/TV/playlist.m3u8
-#EXTINF:-1 group-title="Other",Activa TV (720p)
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 group-title="Other",Sol Música (720p)
-https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-#EXTINF:-1 group-title="Other",STZ Telebista (1080p)
-https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
-#EXTINF:-1 group-title="Other",XPTV1 (720p)
-https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
-#EXTINF:-1 group-title="Other",Onda Valencia (720p)
-https://cloudvideo.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1 group-title="Other",Telefoggia
-http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m3u8
-#EXTINF:-1 group-title="Other",Prima TV Sicilia
-http://flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8
-#EXTINF:-1 group-title="Other",CafeTV24 Veneto
-https://srvx1.selftv.video/cafe/live/playlist.m3u8
-#EXTINF:-1 group-title="Other",Noroeste TV HD
-https://cloudvideo.servers10.com:8081/8032/index.m3u8
-#EXTINF:-1 group-title="Other",NORTEvisión HD
-http://amaru.dyndns.org:8870/0.m3u8
-#EXTINF:-1 group-title="Other",TV Ferrol (576p)
-https://directo.tvferrol.es/tv.m3u8
-#EXTINF:-1 group-title="Other",TV Almassora (720p)
-https://live.fullsport.es/hls/tvalmassora.m3u8
-#EXTINF:-1 group-title="Other",Punt 3 Vall Uixó HD
-https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
-#EXTINF:-1 group-title="Other",1MUS
-http://rtmp.one.by:1300
-#EXTINF:-1 group-title="Other",Factoria TV HD
-https://eu1.servers10.com:8081/8010/index.m3u8
-#EXTINF:-1 group-title="Other",INRATING TV HD
-http://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Other",TVM3
-https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 group-title="Other",V2 Beat HD
-https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 group-title="Other",Rouge TV 720p
-http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF:-1 group-title="Other",DeepHouse District
-https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:-1 group-title="Other",Fresh HD AM
-https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
-#EXTINF:-1 group-title="Other",Vuemme TV
-http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
-#EXTINF:-1 group-title="Other",Travel Guide TV
-http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
-#EXTINF:-1 group-title="Other",Relax HD
-https://fs2.persik.by/Relax4/index.m3u8
-#EXTINF:-1 group-title="Other",Better Life Nature Channel
-https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
-#EXTINF:-1 group-title="Other",Loupe TV
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
-#EXTINF:-1 group-title="Other",A1
-http://195.64.140.147:10059/59
-#EXTINF:-1 group-title="Other",start air HD
-http://195.64.140.147:10063/63
-#EXTINF:-1 group-title="Other",Comedy Central
-http://195.64.140.147:10065/65
-#EXTINF:-1 group-title="Other",RED
-http://195.64.140.147:10085/85
-#EXTINF:-1 group-title="Other",sci-fi
-http://195.64.140.147:10086/86
-#EXTINF:-1 group-title="Other",black
-http://195.64.140.147:10087/87
-#EXTINF:-1 group-title="Other",Match
-http://195.64.140.147:10105/105
-#EXTINF:-1 group-title="Other",Viju+ Planet
-http://195.64.140.147:10147/147
-#EXTINF:-1 group-title="Other",Viju Nature
-http://195.64.140.147:10146/146
-#EXTINF:-1 group-title="Other",viju History
-http://195.64.140.147:10145/145
-#EXTINF:-1 group-title="Other",viju Explore
-http://195.64.140.147:10144/144
-#EXTINF:-1 group-title="Other",National Geographic Wild
-http://195.64.140.147:10149/149
-#EXTINF:-1 group-title="Other",DISCOVERY HD
-http://195.64.140.147:10151/151
-#EXTINF:-1 group-title="Other",ID HD
-http://195.64.140.147:10152/152
-#EXTINF:-1 group-title="Other",travel channel HD
-http://195.64.140.147:10158/158
-#EXTINF:-1 group-title="Other",HISTORY
-http://195.64.140.147:10176/176
-#EXTINF:-1 group-title="Other",OHOTA I RYBALKA
-http://195.64.140.147:10039/39
-#EXTINF:-1 group-title="Other",AVTO24
-http://195.64.140.147:10118/118
-#EXTINF:-1 group-title="Other",C
-http://195.64.140.147:10136/136
-#EXTINF:-1 group-title="Other",Da Vinci
-http://195.64.140.147:10154/154
-#EXTINF:-1 group-title="Other",CTC KIDS
-http://195.64.140.147:10129/129
-#EXTINF:-1 group-title="Other",2x2
-http://185.78.112.17/2x2/index.m3u8
-#EXTINF:-1 group-title="Other",ANI
-http://185.78.112.17/ani/index.m3u8
+#EXTINF:-1 tvg-name="ABC" group-title="AZERBAYCAN YAYINLAR",CBC
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2196/index&extension=m3u8
+#EXTINF:-1 tvg-name="ARB24HD" group-title="AZERBAYCAN YAYINLAR",ARB 24 HD
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2188/index&extension=m3u8
+#EXTINF:-1 tvg-name="IDMAN" group-title="AZERBAYCAN YAYINLAR",Idman
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2198/index&extension=m3u8
+#EXTINF:-1 tvg-name="SPACETV" group-title="AZERBAYCAN YAYINLAR",Space TV
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2190/index&extension=m3u8
+#EXTINF:-1 tvg-name="AZADTV" group-title="AZERBAYCAN YAYINLAR",Azad TV
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2200/index&extension=m3u8
+#EXTINF:-1 tvg-name="DUNYATV.az" group-title="AZERBAYCAN YAYINLAR",Dunya TV AZ
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2192/index&extension=m3u8
+#EXTINF:-1 tvg-name="CBC.az" group-title="AZERBAYCAN YAYINLAR",CBC AZ
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/1050/index&extension=m3u8
+#EXTINF:-1 tvg-name="ICTiMAiTV" group-title="AZERBAYCAN YAYINLAR",Ictimai TV
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2195/index&extension=m3u8
+#EXTINF:-1 tvg-name="ARBTV HD" group-title="AZERBAYCAN YAYINLAR",ARB TV HD
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2187/index&extension=m3u8
+#EXTINF:-1 tvg-name="MEDENiYYET" group-title="AZERBAYCAN YAYINLAR",Medeniyyet
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2197/index&extension=m3u8
+#EXTINF:-1 tvg-name="ARB GUNESHD" group-title="AZERBAYCAN YAYINLAR",ARB Gunes HD
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2189/index&extension=m3u8
+#EXTINF:-1 tvg-name="XAZARTV" group-title="AZERBAYCAN YAYINLAR",Xazar TV
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2199/index&extension=m3u8
+#EXTINF:-1 tvg-name="AZTV" group-title="AZERBAYCAN YAYINLAR",AzTV
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/966/index&extension=m3u8
+#EXTINF:-1 tvg-name="CBC SPORT" group-title="AZERBAYCAN YAYINLAR",CBC Sport
+http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2193/index&extension=m3u8
+#EXTINF:-1 tvg-name="MUZ TV.az" group-title="AZERBAYCAN YAYINLAR",Muz TV AZ
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2191/index.m3u8
+#EXTINF:-1 tvg-name="ARBTVHD" group-title="AZERBAYCAN YAYINLAR",ARB TV HD
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2187/index.m3u8
+#EXTINF:-1 tvg-name="ATV CINEMA.az" group-title="AZERBAYCAN YAYINLAR",ATV Cinema AZ
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2120/index.m3u8
+#EXTINF:-1 tvg-name="ATV VIVACE.az" group-title="AZERBAYCAN YAYINLAR",ATV Vivace AZ
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2120/index.m3u8
+#EXTINF:-1 tvg-name="SHOWPLUSTV.az" group-title="AZERBAYCAN YAYINLAR",Show Plus TV AZ
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/16067/index.m3u8
+#EXTINF:-1 tvg-name="VIPTV.az" group-title="AZERBAYCAN YAYINLAR",VIP TV AZ
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/16052/index.m3u8
+#EXTINF:-1 tvg-name="BAKUTV.az" group-title="AZERBAYCAN YAYINLAR",Baku TV AZ
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/16047/index.m3u8
+#EXTINF:-1 tvg-name="MCJ Shopping AZ" group-title="AZERBAYCAN YAYINLAR",MCJ Shopping AZ
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/16046/index.m3u8
+#EXTINF:-1 tvg-name="TV HD AZ" group-title="AZERBAYCAN YAYINLAR",ATV HD AZ
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/16045/index.m3u8
+#EXTINF:-1 tvg-name="Idman HD AZ" group-title="AZERBAYCAN YAYINLAR",Idman HD AZ
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/16044/index.m3u8
+#EXTINF:-1 tvg-name="KATV1 AZ" group-title="AZERBAYCAN YAYINLAR",KATV1 AZ
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/16042/index.m3u8
+#EXTINF:-1 tvg-name="ARB 24 HD" group-title="AZERBAYCAN YAYINLAR",ARB 24 HD
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2188/index.m3u8
+#EXTINF:-1 tvg-name="ARB Gunes HD" group-title="AZERBAYCAN YAYINLAR",ARB Gunes HD
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2189/index.m3u8
+#EXTINF:-1 tvg-name="Space TV" group-title="AZERBAYCAN YAYINLAR",Space TV
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2190/index.m3u8
+#EXTINF:-1 tvg-name="Dunya TV AZ" group-title="AZERBAYCAN YAYINLAR",Dunya TV AZ
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2192/index.m3u8
+#EXTINF:-1 tvg-name="CBC Sport" group-title="AZERBAYCAN YAYINLAR",CBC Sport
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2193/index.m3u8
+#EXTINF:-1 tvg-name="Ictimai TV" group-title="AZERBAYCAN YAYINLAR",Ictimai TV
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2195/index.m3u8
+#EXTINF:-1 tvg-name="CBC" group-title="AZERBAYCAN YAYINLAR",CBC
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2196/index.m3u8
+#EXTINF:-1 tvg-name="Medeniyyet" group-title="AZERBAYCAN YAYINLAR",Medeniyyet
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2197/index.m3u8
+#EXTINF:-1 tvg-name="Idman" group-title="AZERBAYCAN YAYINLAR",Idman
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2198/index.m3u8
+#EXTINF:-1 tvg-name="azar TV" group-title="AZERBAYCAN YAYINLAR",Xazar TV
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2199/index.m3u8
+#EXTINF:-1 tvg-name="Azad TV" group-title="AZERBAYCAN YAYINLAR",Azad TV
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2200/index.m3u8
+#EXTINF:-1 tvg-name="AzTV" group-title="AZERBAYCAN YAYINLAR",AzTV
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/966/index.m3u8
+#EXTINF:-1 tvg-name="CBC AZ" group-title="AZERBAYCAN YAYINLAR",CBC AZ
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/1050/index.m3u8
+#EXTINF:-1 tvg-name="AL ZAHRA TV" group-title="AZERBAYCAN YAYINLAR",AL ZAHRA TV
+http://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 tvg-name="EL TV" group-title="AZERBAYCAN YAYINLAR",EL TV
+http://85.132.53.162:1935/live/eltv/chunklist.m3u8
