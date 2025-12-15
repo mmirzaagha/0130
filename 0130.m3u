@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml"
 
 ############################
-# 🇦🇿 AZƏRBAYCAN – ÜMUMİ
+# 🇦🇿 AZƏRBAYCAN
 ############################
-#EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.postimg.cc/Vkbmrxkj/aztv.png" group-title="🇦🇿 Azərbaycan – Ümumi",Az TV (1080p)
-https://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="🇦🇿 Azərbaycan – Ümumi",İctimai TV
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 group-title="🇦🇿 Azərbaycan – Ümumi",Könül TV
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
-
-############################
-# 🇦🇿 AZƏRBAYCAN – DİGƏR
-############################
 #EXTINF:-1 tvg-name="Arb.az" group-title="🇦🇿 Azərbaycan – Digər",ARB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:-1 tvg-name="ARBGUNES.az" group-title="🇦🇿 Azərbaycan – Digər",ARB Günəş
@@ -41,18 +35,14 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv
 http://rtmp.apa.tv/@pagroup!23.m3u8
 
 ############################
-# 🇹🇷 TÜRKİYƏ – ƏSAS KANALLAR
+# 🇹🇷 TÜRKİYƏ – ÜMUMİ KANALLAR
 ############################
 #EXTINF:-1 tvg-id="TRT 1.tr" group-title="🇹🇷 Türkiyə – Əsas",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ATV HD.tr" group-title="🇹🇷 Türkiyə – Əsas",ATV HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 group-title="🇹🇷 Türkiyə – Əsas",NOW TV
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=nEeN7OTNUCNwlCnSFAaC9g&e=1765826847
 #EXTINF:-1 tvg-id="KanalD.tr" group-title="🇹🇷 Türkiyə – Əsas",Kanal D HD
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:-1 tvg-id="STAR TV.tr" group-title="🇹🇷 Türkiyə – Əsas",Star TV HD
-https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
 #EXTINF:-1 tvg-id="SHOW TV.tr" group-title="🇹🇷 Türkiyə – Əsas",Show TV HD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 tvg-name="TV 8" group-title="🇹🇷 Türkiyə – Əsas",TV 8
@@ -63,17 +53,15 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 ############################
 # 🇹🇷 TÜRKİYƏ – FİLM & DİZİ
 ############################
-#EXTINF:-1 group-title="🎬 Film & Dizi",Sinema TV
+#EXTINF:-1 group-title="🎬 Film & Serial",Sinema TV
 http://65.108.239.207/sinema/index.m3u8
-#EXTINF:-1 group-title="🎬 Film & Dizi",Sinema Aile
+#EXTINF:-1 group-title="🎬 Film & Serial",Sinema Aile
 http://65.108.239.207/sinemaaile/index.m3u8
-#EXTINF:-1 group-title="🎬 Film & Dizi",Sinema Aksiyon
+#EXTINF:-1 group-title="🎬 Film & Serial",Sinema Aksiyon
 http://65.108.239.207/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="🎬 Film & Dizi",Tabii TV
+#EXTINF:-1 group-title="🎬 Film & Serial",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 group-title="🎬 Film & Dizi",Kurtlar Vadisi
-https://streams.uzunmuhalefet.com/stream/e3e1cf14-7d3c-4714-a1e8-df7634677c43.m3u8
-#EXTINF:-1 group-title="🎬 Film & Dizi",Kurtlar Vadisi: Pusu
+#EXTINF:-1 group-title="🎬 Film & Serial",Kurtlar Vadisi: Pusu
 https://streams.uzunmuhalefet.com/stream/e353cef4-1578-4bec-8d67-ad93cbd8e90c.m3u8
 
 ############################
