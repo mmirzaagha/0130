@@ -48,13 +48,13 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ATV HD.tr" group-title="🇹🇷 Türkiyə – Əsas",ATV HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 group-title="🇹🇷 Türkiyə – Əsas",NOW TV
-https://streams.uzunmuhalefet.com/stream/f9368c57-16e5-44a2-a559-46377a476b04.m3u8
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=nEeN7OTNUCNwlCnSFAaC9g&e=1765826847
 #EXTINF:-1 tvg-id="KanalD.tr" group-title="🇹🇷 Türkiyə – Əsas",Kanal D HD
-https://demiroren.daioncdn.net/kanald/kanald.m3u8
+http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR TV.tr" group-title="🇹🇷 Türkiyə – Əsas",Star TV HD
-https://dogus.daioncdn.net/startv/startv.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
 #EXTINF:-1 tvg-id="SHOW TV.tr" group-title="🇹🇷 Türkiyə – Əsas",Show TV HD
-https://ciner.daioncdn.net/showtv/showtv.m3u8
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 tvg-name="TV 8" group-title="🇹🇷 Türkiyə – Əsas",TV 8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-name="EURO D" group-title="🇹🇷 Türkiyə – Əsas",EURO D
@@ -89,6 +89,8 @@ http://62.131.195.211:8086/8.ts
 ############################
 # 🎵 MUSİQİ
 ############################
+#EXTINF:-1 group-title="🎵 Musiqi",Kral Pop
+https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=kralpoptv_web
 #EXTINF:-1 group-title="🎵 Musiqi",Power Türk
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
 #EXTINF:-1 group-title="🎵 Musiqi",Power Türk Slow
@@ -97,3 +99,5 @@ https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Musiqi",NR1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
+#EXTINF:-1 group-title="🎵 Musiqi",NR1 Aşk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
