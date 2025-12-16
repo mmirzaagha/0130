@@ -83,12 +83,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17c
 ############################
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",1 канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-id="Cinema.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/e/e4/Cinema_TV_logo_%282017%29.jpg" group-title="Кино и сериалы",Cinema
-http://catchup.videoline.ru/cinema/playlist.m3u8
-#EXTINF:-1 tvg-id="Kineko.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Kineko_TV_logo.png" group-title="Кино и сериалы",Кинеко
-http://194.143.148.28:8080/KINEKO/index.m3u8
-#EXTINF:-1 tvg-id="KinoTV.ru" tvg-logo="https://ramnet.ru/tv/logo/000000558.png" group-title="Кино и сериалы",КИНОТВ
-https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="Кино и сериалы",.black
 http://158.101.222.193:88/georgia_play.php?id=black
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ HD
@@ -99,14 +93,6 @@ http://cdn2.ntv.ru/th_serial/playlist.m3u8
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://iptvx.one/picons/ntv-style.png" group-title="Хобби и увлечения",НТВ Стиль
 http://cdn2.ntv.ru/th_style/playlist.m3u8
-#EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-logo="https://www.cableman.ru/sites/default/files/logo_myplanet_color_text_1.png" group-title="Познавательные",Моя Планета
-http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
-#EXTINF:-1 tvg-id="PeretzInternational.ru@SD" tvg-logo="https://smotret.tv/images/perec.jpg" group-title="Развлекательные",Перец International
-https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
-#EXTINF:-1 tvg-id="Friday.ru@SD" tvg-logo="https://images.iptv.rt.ru/images/ch4dgg3mhk079s3jp6j0.png" group-title="Развлекательные",Пятница!
-https://vod.tuva.ru/friday/index.m3u8
-#EXTINF:-1 tvg-id="FridayInternational.ru@SD" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_61c5768aff52414e14fd0e2b.png" group-title="Развлекательные",Пятница! International
-https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="Общественные",Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Общественные",Мир
