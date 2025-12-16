@@ -1,3 +1,4 @@
+#EXTM3U
 ############################
 # 🇦🇿 AZƏRBAYCAN
 ############################
@@ -11,8 +12,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:-1 tvg-name="AZADTV.az" group-title="🇦🇿 Azərbaycan – Digər",Azad TV
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
-#EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="🇦🇿 Azərbaycan – Xəbər",Baku TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
 #EXTINF:-1 tvg-name="CBCSPORT.az" group-title="🇦🇿 Azərbaycan – Digər",CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 tvg-name="DUNYATV.az" group-title="🇦🇿 Azərbaycan – Digər",Dünya TV
@@ -21,31 +20,26 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1 tvg-name="KANALSTV.az" group-title="🇦🇿 Azərbaycan – Digər",Kanal S
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
-#EXTINF:-1 tvg-name="MTV.az" group-title="🇦🇿 Azərbaycan – Digər",MTV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mtv-azerbaycan.m3u8
 #EXTINF:-1 tvg-name="SPACETV.az" group-title="🇦🇿 Azərbaycan – Digər",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:-1 tvg-name="VIPTV.az" group-title="🇦🇿 Azərbaycan – Digər",VIP TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
 #EXTINF:-1 tvg-name="XEZERTV.az" group-title="🇦🇿 Azərbaycan – Digər",Xəzər TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-#EXTINF:-1 tvg-name="APATV.az" group-title="🇦🇿 Azərbaycan – Digər",APA TV
-http://rtmp.apa.tv/@pagroup!23.m3u8
+
 
 ############################
 # 🇹🇷 TÜRKİYƏ – ÜMUMİ KANALLAR
 ############################
-#EXTINF:-1 tvg-id="TRT 1.tr" group-title="🇹🇷 Türkiyə – Əsas",TRT 1 HD
+#EXTINF:-1 tvg-id="TRT 1.tr" group-title="🇹🇷 Türkiyə – Ümumi",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="ATV HD.tr" group-title="🇹🇷 Türkiyə – Əsas",ATV HD
+#EXTINF:-1 tvg-id="ATV HD.tr" group-title="🇹🇷 Türkiyə – Ümumi",ATV HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" group-title="🇹🇷 Türkiyə – Əsas",Kanal D HD
+#EXTINF:-1 tvg-id="KanalD.tr" group-title="🇹🇷 Türkiyə – Ümumi",Kanal D HD
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:-1 tvg-id="SHOW TV.tr" group-title="🇹🇷 Türkiyə – Əsas",Show TV HD
+#EXTINF:-1 tvg-id="SHOW TV.tr" group-title="🇹🇷 Türkiyə – Ümumi",Show TV HD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-#EXTINF:-1 tvg-name="TV 8" group-title="🇹🇷 Türkiyə – Əsas",TV 8
+#EXTINF:-1 tvg-name="TV 8" group-title="🇹🇷 Türkiyə – Ümumi",TV 8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-name="EURO D" group-title="🇹🇷 Türkiyə – Əsas",EURO D
+#EXTINF:-1 tvg-name="EURO D" group-title="🇹🇷 Türkiyə – Ümumi",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 
 ############################
@@ -59,14 +53,11 @@ http://65.108.239.207/sinemaaile/index.m3u8
 http://65.108.239.207/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="🎬 Film & Serial",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 group-title="🎬 Film & Serial",Kurtlar Vadisi: Pusu
-https://streams.uzunmuhalefet.com/stream/e353cef4-1578-4bec-8d67-ad93cbd8e90c.m3u8
+
 
 ############################
 # 📚 SƏNƏDLİ
 ############################
-#EXTINF:-1 group-title="📚 Sənədli",BBC Earth
-https://ds.ayakkabiparti.lol/bbc/index.m3u8
 #EXTINF:-1 group-title="📚 Sənədli",History
 https://ds.ayakkabiparti.lol/history/index.m3u8
 #EXTINF:-1 group-title="📚 Sənədli",Eurosport 1
@@ -85,15 +76,14 @@ https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Musiqi",NR1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
-#EXTINF:-1 group-title="🎵 Musiqi",NR1 Aşk
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
+
 
 ############################
 # 🇷🇺 РУССКИЙ
 ############################
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",1 канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-id="Cinema.ru",Cinema
+#EXTINF:-1 tvg-id="Cinema.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/e/e4/Cinema_TV_logo_%282017%29.jpg" group-title="Кино и сериалы",Cinema
 http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 tvg-id="Kineko.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Kineko_TV_logo.png" group-title="Кино и сериалы",Кинеко
 http://194.143.148.28:8080/KINEKO/index.m3u8
