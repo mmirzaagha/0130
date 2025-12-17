@@ -127,8 +127,8 @@ http://filmtvgroup.hopto.org/novosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbG
 http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 #EXTINF:-1 group-title="KINO+📺",illuzionplus
 http://158.101.222.193:88/georgia_play.php?id=illuzionplus
-#EXTINF:-1 group-title="KINO+📺",Еврокино
-http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="KINO+📺",Eurokino
+http://158.101.222.193:88/georgia_play.php?id=eurokino
 #EXTINF:-1 group-title="KINO+📺",КИНОСАТ
 http://5.188.221.43:8080/play/kinosat
 #EXTINF:-1 group-title="KINO+📺",Kineko
