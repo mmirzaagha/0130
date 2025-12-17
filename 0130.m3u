@@ -103,8 +103,8 @@ https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
 https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",КИНОКОМЕДИЯ
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
-#EXTINF:-1 group-title="KINO+📺",Киномикс
-http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Киномикс HD
+https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",КИНОСЕМЬЯ hd
 https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",КИНОСЕРИЯ
@@ -125,12 +125,10 @@ http://filmtvgroup.hopto.org/FILM_TV_GROUP/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJh
 http://filmtvgroup.hopto.org/novosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 #EXTINF:-1 group-title="KINO+📺",FILM TV Кінозал
 http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="KINO+📺",Бровари Кіно TV
-https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 #EXTINF:-1 group-title="KINO+📺",illuzionplus
 http://158.101.222.193:88/georgia_play.php?id=illuzionplus
-#EXTINF:-1 group-title="KINO+📺",ЕВРОКИНО
-http://vod.tuva.ru/eurokino/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Еврокино
+http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=iptv.org.ua
 #EXTINF:-1 group-title="KINO+📺",КИНОСАТ
 http://5.188.221.43:8080/play/kinosat
 #EXTINF:-1 group-title="KINO+📺",Kineko
@@ -167,14 +165,14 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="KINO+📺",Amedia2
 http://158.101.222.193:88/georgia_play.php?id=amedia2
-#EXTINF:-1 group-title="KINO+📺",Amedia HIT HD
-http://146.120.14.239:3001/play/a07j
-#EXTINF:-1 group-title="KINO+📺",Amedia premium HD
-http://146.120.14.239:3001/play/a06u
+#EXTINF:-1 group-title="KINO+📺",Amedia Hit
+http://158.101.222.193:88/georgia_play.php?id=amediahit
+#EXTINF:-1 group-title="KINO+📺",Amedia Premium
+http://158.101.222.193:88/georgia_play.php?id=amediapremium
 #EXTINF:-1 group-title="KINO+📺",КИНОУЖАС
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
-#EXTINF:-1 group-title="KINO+📺",НСТВ
-http://146.120.14.239:3001/play/a077
+#EXTINF:-1 group-title="KINO+📺",НСТ
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Сериал Пёс
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="KINO+📺",Премьера hd
