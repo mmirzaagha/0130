@@ -2,6 +2,14 @@
 ############################
 # 🇦🇿 AZƏRBAYCAN
 ############################
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",AZ TV Azərbaycan Televiziyası
+http://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",AZ TV Azərbaycan Televiziyası
+https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",AZ TV
+https://str2.yodacdn.net/aztv_300_to_small/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",AZ TV
+http://88.99.64.228/AZTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="🇦🇿 Azərbaycan – Ümumi",İctimai TV
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 group-title="🇦🇿 Azərbaycan – Ümumi",Könül TV
@@ -61,6 +69,10 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png" group-title="👶 Uşaq",MİNİKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="👶 Uşaq",TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+
 
 ############################
 # 📚 SƏNƏDLİ
@@ -69,10 +81,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 https://ds.ayakkabiparti.lol/history/index.m3u8
 #EXTINF:-1 group-title="📚 Sənədli",Eurosport 1
 http://62.131.195.211:8086/8.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="👶 Uşaq",MİNİKA ÇOCUK
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png" group-title="👶 Uşaq",MİNİKA GO
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
+
 
 ############################
 # 🎵 MUSİQİ
