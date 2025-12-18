@@ -55,11 +55,11 @@ http://65.108.239.207/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
 ############################
-# 👶 Uşaq
+# 👶 UŞAQ
 ############################
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png",MİNİKA ÇOCUK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="👶 Uşaq",MİNİKA ÇOCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png",MİNİKA GO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png" group-title="👶 Uşaq",MİNİKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 
 ############################
