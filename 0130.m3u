@@ -2,56 +2,50 @@
 ############################
 # 🇦🇿 AZƏRBAYCAN
 ############################
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",AZ TV Azərbaycan Televiziyası
-http://str.yodacdn.net/aztv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",AZ TV Azərbaycan Televiziyası
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="🇦🇿 Azərbaycan",AZ TV
 https://str.yodacdn.net/azertv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",AZ TV
-https://str2.yodacdn.net/aztv_300_to_small/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",AZ TV
-http://88.99.64.228/AZTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="🇦🇿 Azərbaycan – Ümumi",İctimai TV
+#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="🇦🇿 Azərbaycan",İctimai TV
 https://live.itv.az/itv.m3u8
-#EXTINF:-1 group-title="🇦🇿 Azərbaycan – Ümumi",Könül TV
+#EXTINF:-1 group-title="🇦🇿 Azərbaycan",Könül TV
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
-#EXTINF:-1 tvg-name="Arb.az" group-title="🇦🇿 Azərbaycan – Digər",ARB
+#EXTINF:-1 tvg-name="Arb.az" group-title="🇦🇿 Azərbaycan",ARB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
-#EXTINF:-1 tvg-name="ARBGUNES.az" group-title="🇦🇿 Azərbaycan – Digər",ARB Günəş
+#EXTINF:-1 tvg-name="ARBGUNES.az" group-title="🇦🇿 Azərbaycan",ARB Günəş
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 tvg-name="AZADTV.az" group-title="🇦🇿 Azərbaycan – Digər",Azad TV
+#EXTINF:-1 tvg-name="AZADTV.az" group-title="🇦🇿 Azərbaycan",Azad TV
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
-#EXTINF:-1 tvg-name="CBCSPORT.az" group-title="🇦🇿 Azərbaycan – Digər",CBC Sport
+#EXTINF:-1 tvg-name="CBCSPORT.az" group-title="🇦🇿 Azərbaycan",CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 tvg-name="DUNYATV.az" group-title="🇦🇿 Azərbaycan – Digər",Dünya TV
+#EXTINF:-1 tvg-name="DUNYATV.az" group-title="🇦🇿 Azərbaycan",Dünya TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
-#EXTINF:-1 tvg-name="ELTV.az" group-title="🇦🇿 Azərbaycan – Digər",EL TV
+#EXTINF:-1 tvg-name="ELTV.az" group-title="🇦🇿 Azərbaycan",EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1 tvg-name="KANALSTV.az" group-title="🇦🇿 Azərbaycan – Digər",Kanal S
+#EXTINF:-1 tvg-name="KANALSTV.az" group-title="🇦🇿 Azərbaycan",Kanal S
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
-#EXTINF:-1 tvg-name="SPACETV.az" group-title="🇦🇿 Azərbaycan – Digər",Space TV
+#EXTINF:-1 tvg-name="SPACETV.az" group-title="🇦🇿 Azərbaycan",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:-1 tvg-name="XEZERTV.az" group-title="🇦🇿 Azərbaycan – Digər",Xəzər TV
+#EXTINF:-1 tvg-name="XEZERTV.az" group-title="🇦🇿 Azərbaycan",Xəzər TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 
 
 ############################
-# 🇹🇷 TÜRKİYƏ – ÜMUMİ KANALLAR
+# 🇹🇷 TÜRKİYƏ
 ############################
-#EXTINF:-1 tvg-id="TRT 1.tr" group-title="🇹🇷 Türkiyə – Ümumi",TRT 1 HD
+#EXTINF:-1 tvg-id="TRT 1.tr" group-title="🇹🇷 Türkiyə",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="ATV HD.tr" group-title="🇹🇷 Türkiyə – Ümumi",ATV HD
+#EXTINF:-1 tvg-id="ATV HD.tr" group-title="🇹🇷 Türkiyə",ATV HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" group-title="🇹🇷 Türkiyə – Ümumi",Kanal D HD
+#EXTINF:-1 tvg-id="KanalD.tr" group-title="🇹🇷 Türkiyə",Kanal D HD
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:-1 tvg-id="SHOW TV.tr" group-title="🇹🇷 Türkiyə – Ümumi",Show TV HD
+#EXTINF:-1 tvg-id="SHOW TV.tr" group-title="🇹🇷 Türkiyə",Show TV HD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-#EXTINF:-1 tvg-name="TV 8" group-title="🇹🇷 Türkiyə – Ümumi",TV 8
+#EXTINF:-1 tvg-name="TV 8" group-title="🇹🇷 Türkiyə",TV 8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-name="EURO D" group-title="🇹🇷 Türkiyə – Ümumi",EURO D
+#EXTINF:-1 tvg-name="EURO D" group-title="🇹🇷 Türkiyə",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 
 ############################
-# 🇹🇷 TÜRKİYƏ – FİLM & DİZİ
+# 📺 FİLM & SERİAL
 ############################
 #EXTINF:-1 group-title="🎬 Film & Serial",Sinema TV
 http://65.108.239.207/sinema/index.m3u8
@@ -121,18 +115,40 @@ https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",Кинохит hd
 https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кинохит HD
+http://195.158.223.132:8008/Kinohit
+#EXTINF:-1 group-title="KINO+📺",КИНОХИТ
+http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 group-title="KINO+📺",КИНОКОМЕДИЯ
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:-1 group-title="KINO+📺",Кино Kомедия HD
+https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",kinomiks
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:-1 group-title="KINO+📺",Киномикс
+http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Киномикс HD
 https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",КИНОСЕМЬЯ hd
 https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",КИНОСЕМЬЯ
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 group-title="KINO+📺",КИНОСЕРИЯ
 http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF:-1 group-title="KINO+📺",КИНОСЕРИЯ HD
+https://vod.splay.uz/live_splay/original/Kinoseriya/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Киносвидание HD
 http://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",Киносвидание
+http://195.158.223.132:8008/Kinosvidanie
+#EXTINF:-1 group-title="KINO+📺",Киносвидание 720x576
+http://93.170.254.17/Kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",КИНОСВИДАНИЕ
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 group-title="KINO+📺",Мужское Кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1 group-title="KINO+📺",Мужское кино
+http://157.90.0.245:8070/muzhskoe_kino/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",V Kino COMEDY
 http://ukr.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="KINO+📺",viju TV1000 R Kino
