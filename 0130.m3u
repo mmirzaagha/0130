@@ -55,6 +55,8 @@ https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-name="KANAL 7 AVRUPA" group-title="🇹🇷 Türkiyə",KANAL 7 AVRUPA
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+#EXTINF:-1 tvg-name="TV 4" group-title="🇹🇷 Türkiyə",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 
 ############################
 # 📺 FİLM & SERİAL
@@ -122,12 +124,23 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 #EXTINF:-1 tvg-id="ТНТ International@SD" group-title="Общественные", ТНТ International
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+#EXTINF:-1 tvg-id="ТНТ International@SD" group-title="Общественные", Пятница!
+https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 tvg-id="ТНТ International@SD" group-title="Общественные", Пятница! Int.
+http://158.101.222.193:88/georgia_play.php?id=friday
+#EXTINF:-1 tvg-id="ТНТ International@SD" group-title="Общественные", ТВ3
+http://185.46.16.239:8000/TV3
+
 
 ############################
 # 📺 KINO+
 ############################
+#EXTINF:-1 group-title="KINO+📺", Show Plus AZE
+https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 group-title="KINO+📺",viju TV1000 action
 http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",CINEMA
+http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="KINO+📺",.Black
 http://158.101.222.193:88/georgia_play.php?id=black
 #EXTINF:-1 group-title="KINO+📺",КИНОУЖАС
