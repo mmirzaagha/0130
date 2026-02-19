@@ -41,7 +41,9 @@ http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-name="EURO D" group-title="🇹🇷 Türkiyə",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-name="NOW TV" group-title="🇹🇷 Türkiyə",NOW TV
+#EXTINF:-1 tvg-name="NOW TV SD" group-title="🇹🇷 Türkiyə",NOW TV SD
+http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1 tvg-name="NOW TV HD" group-title="🇹🇷 Türkiyə",NOW TV HD
 http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="SHOW TV.tr" group-title="🇹🇷 Türkiyə", SHOW TV HD
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
@@ -118,10 +120,6 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="Музыкальные",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
-#EXTINF:-1 tvg-id="Friday.ru@SD" group-title="Общественные", Пятница!
-https://vod.tuva.ru/friday/index.m3u8
-#EXTINF:-1 tvg-id="Пятница! International@SD" group-title="Общественные", Пятница! International
-https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1 tvg-id="ТНТ International@SD" group-title="Общественные", ТНТ International
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
