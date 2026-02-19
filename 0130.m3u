@@ -8,8 +8,6 @@ https://str.yodacdn.net/azertv/index.m3u8
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="🇦🇿 Azərbaycan",BAKU TV
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
-#EXTINF:-1 group-title="🇦🇿 Azərbaycan",Könül TV
-http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
 #EXTINF:-1 tvg-name="Arb.az" group-title="🇦🇿 Azərbaycan",ARB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:-1 tvg-name="ARBGUNES.az" group-title="🇦🇿 Azərbaycan",ARB Günəş
@@ -39,16 +37,22 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" group-title="🇹🇷 Türkiyə",Kanal D HD
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr@SD",Kanal D (1080p)
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 tvg-id="SHOW TV.tr" group-title="🇹🇷 Türkiyə",Show TV HD
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 tvg-name="TV 8" group-title="🇹🇷 Türkiyə",TV 8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-name="EURO D" group-title="🇹🇷 Türkiyə",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+#EXTINF:-1 tvg-name="NOW TV" group-title="🇹🇷 Türkiyə",NOW TV
+http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1 tvg-id="SHOW TV.tr" group-title="🇹🇷 Türkiyə", SHOW TV HD
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+#EXTINF:-1 tvg-id="STAR TV.tr" group-title="🇹🇷 Türkiyə", STAR TV HD
+https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
 #EXTINF:-1 tvg-name="BEYAZ TV" group-title="🇹🇷 Türkiyə",BEYAZ TV
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
+#EXTINF:-1 tvg-id="ext" tvg-name="KANAL 7" group-title="🇹🇷 Türkiyə",KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1 tvg-name="KANAL 7 AVRUPA" group-title="🇹🇷 Türkiyə",KANAL 7 AVRUPA
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 
 ############################
 # 📺 FİLM & SERİAL
@@ -61,6 +65,8 @@ http://65.108.239.207/sinemaaile/index.m3u8
 http://65.108.239.207/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="🎬 Film & Serial",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+#EXTINF:-1  group-title="🎬 Film & Serial",SiNEMA 1
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
 ############################
 # 👶 UŞAQ
@@ -71,16 +77,11 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_48
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="👶 Uşaq",TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK DIYANET" group-title="👶 Uşaq",TRT COCUK DIYANET
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="CarouselInternational.ru@SD" group-title="👶 Uşaq",Карусель International
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 
-
-
-############################
-# 📚 SƏNƏDLİ
-############################
-#EXTINF:-1 group-title="📚 Sənədli",History
-https://ds.ayakkabiparti.lol/history/index.m3u8
-#EXTINF:-1 group-title="📚 Sənədli",Eurosport 1
-http://62.131.195.211:8086/8.ts
 
 
 ############################
@@ -117,6 +118,12 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="Музыкальные",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
+#EXTINF:-1 tvg-id="Friday.ru@SD" group-title="Общественные", Пятница!
+https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 tvg-id="Пятница! International@SD" group-title="Общественные", Пятница! International
+https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+#EXTINF:-1 tvg-id="ТНТ International@SD" group-title="Общественные", ТНТ International
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
 ############################
 # 📺 KINO+
