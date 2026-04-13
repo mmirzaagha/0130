@@ -128,8 +128,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 #EXTINF:-1 tvg-id="ТНТ International@SD" group-title="Общественные", ТНТ International
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
-#EXTINF:-1 tvg-id="ТНТ International@SD" group-title="Общественные", Пятница! Int.
-http://158.101.222.193:88/georgia_play.php?id=friday
+#EXTINF:-1 tvg-id="Animal planet" group-title="Общественные", Animal Planet
+https://goldvod.org/live/hpgdiscoo/123456/10497.m3u8
 
 
 
@@ -138,14 +138,28 @@ http://158.101.222.193:88/georgia_play.php?id=friday
 ############################
 #EXTINF:-1 group-title="KINO+📺",viju TV1000 action
 http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",CINEMA
-http://catchup.videoline.ru/cinema/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju TV1000 
+http://45.145.32.13:20440/tv1000/index.m3u8?token=test
+#EXTINF:-1 group-title="KINO+📺",viju Mega Hit
+http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
+#EXTINF:-1 group-title="KINO+📺",Иллюзион
+http://45.145.32.13:20440/ocean_tv/index.m3u8?token=test
+#EXTINF:-1 group-title="KINO+📺",KİNO TV
+https://goldvod.org/live/hpgdiscoo/123456/10524.m3u8
+#EXTINF:-1 group-title="KINO+📺", BCU Stars HD
+http://hls127.freeott.top:8080/BCUStarsHD/video.m3u8
+#EXTINF:-1 group-title="KINO+📺", КИНОПОКАЗ
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 group-title="KINO+📺", КХит HD
+http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="KINO+📺",.Black
 http://158.101.222.193:88/georgia_play.php?id=black
 #EXTINF:-1 group-title="KINO+📺",КИНОУЖАС
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 group-title="KINO+📺",КИНОХИТ
 http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF:-1 group-title="KINO+📺",НСТ
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",КИНОКОМЕДИЯ
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 #EXTINF:-1 group-title="KINO+📺",kinomiks
@@ -210,6 +224,12 @@ http://158.101.222.193:88/georgia_play.php?id=amediahit
 http://158.101.222.193:88/georgia_play.php?id=amediapremium
 #EXTINF:-1 group-title="KINO+📺",Сериал Пёс
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="KINO+📺",Mir Serial
+https://goldvod.org/live/hpgdiscoo/123456/10523.m3u8
+#EXTINF:-1 group-title="KINO+📺",Индия
+http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
+#EXTINF:-1 group-title="KINO+📺", Cinema
+http://catchup.videoline.ru/cinema/playlist.m3u8
 
 
 
