@@ -122,13 +122,28 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://goldvod.org/live/hpgdiscoo/123456/10497.m3u8
 #EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", 365 дней
 https://t.freetv.fun/live/365-dnei-tv.m3u8
+#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", Viju nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", Зоопарк
+http://158.101.222.193:88/georgia_play.php?id=zoo
+#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", В МИРЕ ЖИВОТНЫХ HD
+http://cdn.kubteltv.workers.dev/?ID=401
 #EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", National Geographic
 https://t.freetv.fun/live/national-geographic-2.m3u8
 #EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", NAT GEO WILD
 https://t.freetv.fun/live/nat-geo-wild.m3u8
 #EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", Планета HD
 https://t.freetv.fun/live/moia-planeta-1.m3u8
-
+#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", Viju explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", Viju history
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", Телепутешествия
+http://cdn.kubteltv.workers.dev/?ID=257
+#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", Discovery
+https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", Приключения
+https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 
 ############################
 # 📺 KINO+
@@ -205,7 +220,25 @@ https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
 https://goldvod.org/live/hpgdiscoo/123456/10523.m3u8
 #EXTINF:-1 group-title="KINO+📺", ссср мульты
 https://t.freetv.fun/live/sssr-multy.m3u8
-
-
+#EXTINF:-1 group-title="KINO+📺", Cinema SD
+http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Премиум Кино
+http://tinyurl.com/TvZaTak69/000008491/tve/index.m3u8?|User-Agent=http-user-agent=Lavf53.32.100
+#EXTINF:-1 group-title="KINO+📺", Viju TV1000 Romantica HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=w2FNAGw5P6Xh1HesXSylPQ&e=1776885025&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="KINO+📺", Viju+ Premiere
+http://46.53.208.4/live/6001.m3u8?keytva.in.ua
+#EXTINF:-1 group-title="KINO+📺", Viju+ Serial
+http://46.53.208.4/live/6004.m3u8?keytva.in.ua
+#EXTINF:-1 group-title="KINO+📺", Viju+ Megahit
+http://46.53.208.4/live/6002.m3u8?keytva.in.ua
+#EXTINF:-1 group-title="KINO+📺", НСТ
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", СТС
+http://31.131.141.195:8000/play/2030/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Классика кино
+http://46.53.208.4/live/3006.m3u8?keytva.in.ua
+#EXTINF:-1 group-title="KINO+📺", Золотая коллекция
+http://185.164.82.18:9010/ykMHqK_Fox
 
 
