@@ -120,29 +120,29 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Animal planet" group-title="Общественные", Animal Planet
 https://goldvod.org/live/hpgdiscoo/123456/10497.m3u8
-#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", 365 дней
+#EXTINF:-1 tvg-id="365 дней" group-title="Познавательные", 365 дней
 https://t.freetv.fun/live/365-dnei-tv.m3u8
-#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", Viju nature
+#EXTINF:-1 tvg-id="Viju nature" group-title="Познавательные", Viju nature
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
-#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", Зоопарк
+#EXTINF:-1 tvg-id="Зоопарк" group-title="Познавательные", Зоопарк
 http://158.101.222.193:88/georgia_play.php?id=zoo
-#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", В МИРЕ ЖИВОТНЫХ HD
+#EXTINF:-1 tvg-id="В МИРЕ ЖИВОТНЫХ HD" group-title="Познавательные", В МИРЕ ЖИВОТНЫХ HD
 http://cdn.kubteltv.workers.dev/?ID=401
-#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", National Geographic
+#EXTINF:-1 tvg-id="National Geographic" group-title="Познавательные", National Geographic
 https://t.freetv.fun/live/national-geographic-2.m3u8
-#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", NAT GEO WILD
+#EXTINF:-1 tvg-id="NAT GEO WILD" group-title="Познавательные", NAT GEO WILD
 https://t.freetv.fun/live/nat-geo-wild.m3u8
-#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", Планета HD
+#EXTINF:-1 tvg-id="Планета HD" group-title="Познавательные", Планета HD
 https://t.freetv.fun/live/moia-planeta-1.m3u8
-#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", Viju explore
+#EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные", Viju explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", Viju history
+#EXTINF:-1 tvg-id="Viju history" group-title="Познавательные", Viju history
 http://158.101.222.193:88/georgia_play.php?id=viasathist
-#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", Телепутешествия
+#EXTINF:-1 tvg-id="Телепутешествия" group-title="Познавательные", Телепутешествия
 http://cdn.kubteltv.workers.dev/?ID=257
-#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", Discovery
+#EXTINF:-1 tvg-id="Discovery" group-title="Познавательные", Discovery
 https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", Приключения
+#EXTINF:-1 tvg-id="Приключения" group-title="Познавательные", Приключения
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 
 ############################
@@ -220,8 +220,6 @@ https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
 https://goldvod.org/live/hpgdiscoo/123456/10523.m3u8
 #EXTINF:-1 group-title="KINO+📺", ссср мульты
 https://t.freetv.fun/live/sssr-multy.m3u8
-#EXTINF:-1 group-title="KINO+📺", Cinema SD
-http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺", Премиум Кино
 http://tinyurl.com/TvZaTak69/000008491/tve/index.m3u8?|User-Agent=http-user-agent=Lavf53.32.100
 #EXTINF:-1 group-title="KINO+📺", Viju TV1000 Romantica HD
