@@ -90,7 +90,7 @@ https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 # 🎵 MUSİQİ
 ############################
 #EXTINF:-1 group-title="🎵 Musiqi",Kral Pop
-https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=kralpoptv_web
+https://t.freetv.fun/live/kral-kral-pop.m3u8
 #EXTINF:-1 group-title="🎵 Musiqi",Power Türk
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
 #EXTINF:-1 group-title="🎵 Musiqi",Power Türk Slow
@@ -120,7 +120,14 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Animal planet" group-title="Общественные", Animal Planet
 https://goldvod.org/live/hpgdiscoo/123456/10497.m3u8
-
+#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", 365 дней
+https://t.freetv.fun/live/365-dnei-tv.m3u8
+#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", National Geographic
+https://t.freetv.fun/live/national-geographic-2.m3u8
+#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", NAT GEO WILD
+https://t.freetv.fun/live/nat-geo-wild.m3u8
+#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные", Планета HD
+https://t.freetv.fun/live/moia-planeta-1.m3u8
 
 
 ############################
@@ -128,6 +135,8 @@ https://goldvod.org/live/hpgdiscoo/123456/10497.m3u8
 ############################
 #EXTINF:-1 group-title="KINO+📺",viju TV1000 action
 http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju TV1000
+https://t.freetv.fun/live/viju-tv1000-2.m3u8
 #EXTINF:-1 group-title="KINO+📺",kinomiks
 http://158.101.222.193:88/georgia_play.php?id=kinomiks
 #EXTINF:-1 group-title="KINO+📺",КИНОХИТ
@@ -166,8 +175,8 @@ http://hls127.freeott.top:8080/BCUStarsHD/video.m3u8
 http://158.101.222.193:88/georgia_play.php?id=kinoseria
 #EXTINF:-1 group-title="KINO+📺",V Kino COMEDY
 http://ukr.ukrainske.tv/493/video.m3u8
-#EXTINF:-1 group-title="KINO+📺",viju TV1000 R Kino
-http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+#EXTINF:-1 group-title="KINO+📺",любимое кино
+https://t.freetv.fun/live/liubimoe-kino.m3u8
 #EXTINF:-1 group-title="KINO+📺",FILM TV Кінозал
 http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 #EXTINF:-1 group-title="KINO+📺",Eurokino
@@ -176,8 +185,6 @@ http://158.101.222.193:88/georgia_play.php?id=eurokino
 http://5.188.221.43:8080/play/kinosat
 #EXTINF:-1 group-title="KINO+📺",Kineko
 http://31.148.48.15/Kineko/index.m3u8?token=iptv.org.ua
-#EXTINF:-1 group-title="KINO+📺",STAR CINEMA HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 #EXTINF:-1 group-title="KINO+📺",Киножелезо
 http://188.208.197.173/kinojelezo/video.m3u8?token=tvon
 #EXTINF:-1 group-title="KINO+📺",Film UA Drama
@@ -186,12 +193,18 @@ http://88.99.215.227/FilmUADrama/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=zeetv
 #EXTINF:-1 group-title="KINO+📺",TvBoom-ViP
 https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",STAR CINEMA HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 #EXTINF:-1 group-title="KINO+📺",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju TV1000 R Kino
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="KINO+📺",Сериал Пёс
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="KINO+📺",Mir Serial
 https://goldvod.org/live/hpgdiscoo/123456/10523.m3u8
+#EXTINF:-1 group-title="KINO+📺", ссср мульты
+https://t.freetv.fun/live/sssr-multy.m3u8
 
 
 
