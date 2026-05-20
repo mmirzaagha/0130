@@ -57,40 +57,9 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 #EXTINF:-1 tvg-name="TV 4" group-title="🇹🇷 Türkiyə",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="Sinema",SiNEMA 1
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
-############################
-# 📺 FİLM & SERİAL
-############################
-#EXTINF:-1 tvg-id="Sinema Tv.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinematv_logo_A0CC7C58-E100-4C18-8B8D-BF961C4F785E.png"  group-title="Sinema", Sinema TV
-http://65.108.239.207/sinema/index.m3u8
-#EXTINF:-1 tvg-id="Sinema Tv 2.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinema2_logo_C0C84D85-E6DD-4807-B52F-277AD04EAE22.png" group-title="Sinema", Sinema TV 2
-https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://65.108.239.207/sinema2/index.m3u8
-#EXTINF:-1 tvg-id="SİNEMA YERLİ HD.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemayerli_logo_75EF9BC4-3582-455A-BB02-47FAFD00CEA0.png" group-title="Sinema", Sinema Yerli
-https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49303.m3u8
-#EXTINF:-1 tvg-id="SİNEMA YERLİ 2 HD.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemayerli2_logo_6C526B31-1CD4-4F36-B514-FDB85BF311F5.png" group-title="Sinema", Sinema Yerli 2
-https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49293.m3u8
-#EXTINF:-1 tvg-id="Sinema Tv Aile.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemaaile_logo_B2AC3808-8447-4546-80EF-EA50B34D6089.png" group-title="Sinema",Sinema Aile
-http://65.108.239.207/sinemaaile/index.m3u8
-#EXTINF:-1 tvg-id="Sinema Tv Aile 2.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemaaile2_logo_AD8E0B38-BE08-48CD-ACF5-28DB2419266C.png" group-title="Sinema", Sinema Aile 2
-https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49302.m3u8
-#EXTINF:-1 tvg-id="Sinema Tv Comedy.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemakomedi_logo_16AD0158-3FF7-4897-93A7-26577BC1EC33.png"  group-title="Sinema",Sinema Komedi
-https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://65.108.239.207/sinemakomedi/index.m3u8
-#EXTINF:-1 tvg-id="Sinema Tv Comedy 2.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemakomedi2_logo_D70C1FCF-C2FF-4A95-980E-1454B5728647.png" group-title="Sinema", Sinema Komedi 2
-https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49306.m3u8
-#EXTINF:-1 tvg-id="Sinema Tv Aksiyon.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemaaksiyon_logo_ECCA8162-A617-4236-82AD-BE14CFBE4C8D.png"  group-title="Sinema", Sinema Aksiyon
-http://65.108.239.207/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Sinema Tv Aksiyon 2.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemaaksiyon2_logo_1E3AE25E-8ED5-4388-BF6E-6A902F87DF27.png" group-title="Sinema",Sinema Aksiyon 2
-https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://65.108.239.207/sinemaaksiyon2/index.m3u8
-#EXTINF:-1 tvg-id="Sinema Tv 1001.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinema1001_logo_CA7B6954-4A94-455B-9A1F-5FC54D88B982.png" group-title="Sinema",Sinema 1001
-https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://65.108.239.207/sinema1001/index.m3u8
-#EXTINF:-1 tvg-id="Sinema Tv 1002.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinema1002_logo_FEC606FA-0E12-4B71-AE3A-E9879A6AB678.png" group-title="Sinema", Sinema 1002
-https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://goldvod.org/live/hpgdisco/123456/175.m3u8
-#EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/ZI/13863/Thumbnail.png?v=636987856299906443" group-title="Sinema", Moviesmart Türk HD
-https://ds.ayakkabiparti.lol/mvturk/index.m3u8
-#EXTINF:-1 tvg-id="Film Screen.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" group-title="Sinema", Film Screen HD
-https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="TABII TV" tvg-logo="https://tvplus.com.tr/_next/image?url=https%3A%2F%2Fgbzottvsc20.tvplus.com.tr%3A33207%2FCPS%2Fimages%2Funiversal%2Ffilm%2Flogo%2F202506%2F20250623%2F94%2F1009257324535eb9542c_op_0_XL.webp&w=128&q=75" group-title="Dizi", Tabii TV HD
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
 ############################
 # 👶 UŞAQ
@@ -103,10 +72,11 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK DIYANET" group-title="👶 Uşaq",TRT COCUK DIYANET
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="CarouselInternational.ru@SD" group-title="👶 Uşaq",Cartoon Network
-https://streams.uzunmuhalefet.com/stream/9d940976-31c8-4570-92e6-a684e49bea46.m3u8
-#EXTINF:-1 tvg-id="CarouselInternational.ru@SD" group-title="👶 Uşaq",Карусель International
-https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="👶 Uşaq", Карусель 
+https://a3569457567-s70378.cdn.ngenix.net/karusel/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="👶 Uşaq", Gulli Girl
+https://a3569457567-s70378.cdn.ngenix.net/gulli/1/index.m3u8
+
 
 
 
@@ -142,44 +112,40 @@ http://cdn2.ntv.ru/th_hit/playlist.m3u8
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Общественные",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="Animal planet" group-title="Общественные", Animal Planet
-https://goldvod.org/live/hpgdiscoo/123456/10497.m3u8
-#EXTINF:-1 tvg-id="Viju nature" group-title="Познавательные", Viju nature
-http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 tvg-id="Приключения" group-title="Познавательные", TLC
+http://77.245.98.18:8000/play/a01k
 #EXTINF:-1 tvg-id="Зоопарк" group-title="Познавательные", Зоопарк
 http://158.101.222.193:88/georgia_play.php?id=zoo
-#EXTINF:-1 tvg-id="В МИРЕ ЖИВОТНЫХ HD" group-title="Познавательные", В МИРЕ ЖИВОТНЫХ HD
-http://cdn.kubteltv.workers.dev/?ID=401
 #EXTINF:-1 tvg-id="National Geographic" group-title="Познавательные", National Geographic
 https://t.freetv.fun/live/national-geographic-2.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD" group-title="Познавательные", NAT GEO WILD
-https://t.freetv.fun/live/nat-geo-wild.m3u8
-#EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные", Viju explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF:-1 tvg-id="Viju history" group-title="Познавательные", Viju history
-http://158.101.222.193:88/georgia_play.php?id=viasathist
-#EXTINF:-1 tvg-id="Телепутешествия" group-title="Познавательные", Телепутешествия
-http://cdn.kubteltv.workers.dev/?ID=257
 #EXTINF:-1 tvg-id="Discovery" group-title="Познавательные", Discovery
 https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Приключения" group-title="Познавательные", Приключения
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="365 дней" group-title="Познавательные", 365 дней
-https://t.freetv.fun/live/365-dnei-tv.m3u8
+#EXTINF:-1 tvg-id="Discovery" group-title="Познавательные", Galaxy
+https://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
+#EXTINF:-1 tvg-id="Viju nature" group-title="Познавательные", Viju nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные", Viju explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:-1 tvg-id="Viju history" group-title="Познавательные", Viju history
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF:-1 tvg-id="Viju planet" group-title="Познавательные", Viju Planet
+http://37.46.49.14:18010/play/a02o/index.m3u8
 
 ############################
 # 📺 KINO+
 ############################
 #EXTINF:-1 group-title="KINO+📺",viju TV1000 action
-http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",viju TV1000
 https://t.freetv.fun/live/viju-tv1000-2.m3u8
 #EXTINF:-1 group-title="KINO+📺", Viju+ Premiere
-http://46.53.208.4/live/6001.m3u8?keytva.in.ua
+http://37.46.49.14:18010/play/a02i/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", Viju+ Megahit
-http://46.53.208.4/live/6002.m3u8?keytva.in.ua
+http://37.46.49.14:18010/play/a02j/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", Viju+ Serial
-http://46.53.208.4/live/6004.m3u8?keytva.in.ua
+http://37.46.49.14:18010/play/a02p/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", Viju TV1000 Romantica HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=w2FNAGw5P6Xh1HesXSylPQ&e=1776885025&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="KINO+📺",kinomiks
@@ -198,30 +164,24 @@ http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 group-title="KINO+📺",Мужское Кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1 group-title="KINO+📺",КИНОСЕРИЯ
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF:-1 group-title="KINO+📺", КХит HD
+http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="KINO+📺",.Black
 http://158.101.222.193:88/georgia_play.php?id=black
-#EXTINF:-1 group-title="KINO+📺",KİNO TV
-https://goldvod.org/live/hpgdiscoo/123456/10524.m3u8
+#EXTINF:-1 group-title="KINO+📺",illuzionplus
+http://158.101.222.193:88/georgia_play.php?id=illuzionplus
+#EXTINF:-1 group-title="KINO+📺",Amedia Hit
+http://158.101.222.193:88/georgia_play.php?id=amediahit
 #EXTINF:-1 group-title="KINO+📺",Amedia1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="KINO+📺",Amedia2
 http://158.101.222.193:88/georgia_play.php?id=amedia2
-#EXTINF:-1 group-title="KINO+📺",Amedia Hit
-http://158.101.222.193:88/georgia_play.php?id=amediahit
 #EXTINF:-1 group-title="KINO+📺",Amedia Premium
 http://158.101.222.193:88/georgia_play.php?id=amediapremium
-#EXTINF:-1 group-title="KINO+📺",illuzionplus
-http://158.101.222.193:88/georgia_play.php?id=illuzionplus
-#EXTINF:-1 group-title="KINO+📺", КХит HD
-http://hls127.freeott.top:8080/XitHD/video.m3u8
-#EXTINF:-1 group-title="KINO+📺", BCU Stars HD
-http://hls127.freeott.top:8080/BCUStarsHD/video.m3u8
-#EXTINF:-1 group-title="KINO+📺",КИНОСЕРИЯ
-http://158.101.222.193:88/georgia_play.php?id=kinoseria
 #EXTINF:-1 group-title="KINO+📺",V Kino COMEDY
 http://ukr.ukrainske.tv/493/video.m3u8
-#EXTINF:-1 group-title="KINO+📺",любимое кино
-https://t.freetv.fun/live/liubimoe-kino.m3u8
 #EXTINF:-1 group-title="KINO+📺",FILM TV Кінозал
 http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 #EXTINF:-1 group-title="KINO+📺",Eurokino
@@ -230,8 +190,6 @@ http://158.101.222.193:88/georgia_play.php?id=eurokino
 http://5.188.221.43:8080/play/kinosat
 #EXTINF:-1 group-title="KINO+📺",Kineko
 http://31.148.48.15/Kineko/index.m3u8?token=iptv.org.ua
-#EXTINF:-1 group-title="KINO+📺",Киножелезо
-http://188.208.197.173/kinojelezo/video.m3u8?token=tvon
 #EXTINF:-1 group-title="KINO+📺",Film UA Drama
 http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",zeetv
@@ -244,16 +202,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",viju TV1000 R Kino
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
-#EXTINF:-1 group-title="KINO+📺",Сериал Пёс
-https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="KINO+📺",Mir Serial
-https://goldvod.org/live/hpgdiscoo/123456/10523.m3u8
 #EXTINF:-1 group-title="KINO+📺", ссср мульты
 https://t.freetv.fun/live/sssr-multy.m3u8
-#EXTINF:-1 group-title="KINO+📺", Премиум Кино
-http://tinyurl.com/TvZaTak69/000008491/tve/index.m3u8?|User-Agent=http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="KINO+📺", Классика кино
-http://46.53.208.4/live/3006.m3u8?keytva.in.ua
+#EXTINF:-1 group-title="KINO+📺", Мосфильм. Золотая коллекция
+http://tinyurl.com/TvZaTak37/Mosfilm/video.m3u8?token=iptv.org.ua-key
+
 
 
 
