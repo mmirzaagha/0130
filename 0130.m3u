@@ -40,7 +40,7 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" group-title="🇹🇷 Türkiyə",Kanal D HD
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 tvg-name="TV 8" group-title="🇹🇷 Türkiyə",TV 8
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
+https://streams.uzunmuhalefet.com/stream/e93b8e86-e4fc-450a-81d4-2188eda7dda0.m3u8
 #EXTINF:-1 tvg-name="EURO D" group-title="🇹🇷 Türkiyə",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-name="NOW TV SD" group-title="🇹🇷 Türkiyə",NOW TV SD
@@ -72,10 +72,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK DIYANET" group-title="👶 Uşaq",TRT COCUK DIYANET
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="👶 Uşaq", Карусель 
-https://a3569457567-s70378.cdn.ngenix.net/karusel/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="👶 Uşaq", Gulli Girl
-https://a3569457567-s70378.cdn.ngenix.net/gulli/1/index.m3u8
+
 
 
 
@@ -112,8 +109,6 @@ http://cdn2.ntv.ru/th_hit/playlist.m3u8
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Общественные",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="Приключения" group-title="Познавательные", TLC
-http://77.245.98.18:8000/play/a01k
 #EXTINF:-1 tvg-id="Зоопарк" group-title="Познавательные", Зоопарк
 http://158.101.222.193:88/georgia_play.php?id=zoo
 #EXTINF:-1 tvg-id="National Geographic" group-title="Познавательные", National Geographic
@@ -122,8 +117,6 @@ https://t.freetv.fun/live/national-geographic-2.m3u8
 https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Приключения" group-title="Познавательные", Приключения
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Discovery" group-title="Познавательные", Galaxy
-https://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
 #EXTINF:-1 tvg-id="Viju nature" group-title="Познавательные", Viju nature
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
 #EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные", Viju explore
@@ -146,8 +139,6 @@ http://37.46.49.14:18010/play/a02i/index.m3u8
 http://37.46.49.14:18010/play/a02j/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", Viju+ Serial
 http://37.46.49.14:18010/play/a02p/index.m3u8
-#EXTINF:-1 group-title="KINO+📺", Viju TV1000 Romantica HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=w2FNAGw5P6Xh1HesXSylPQ&e=1776885025&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="KINO+📺",kinomiks
 http://158.101.222.193:88/georgia_play.php?id=kinomiks
 #EXTINF:-1 group-title="KINO+📺",КИНОХИТ
@@ -180,8 +171,6 @@ http://158.101.222.193:88/georgia_play.php?id=amedia
 http://158.101.222.193:88/georgia_play.php?id=amedia2
 #EXTINF:-1 group-title="KINO+📺",Amedia Premium
 http://158.101.222.193:88/georgia_play.php?id=amediapremium
-#EXTINF:-1 group-title="KINO+📺",V Kino COMEDY
-http://ukr.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="KINO+📺",FILM TV Кінозал
 http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 #EXTINF:-1 group-title="KINO+📺",Eurokino
@@ -194,12 +183,8 @@ http://31.148.48.15/Kineko/index.m3u8?token=iptv.org.ua
 http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",zeetv
 http://158.101.222.193:88/georgia_play.php?id=zeetv
-#EXTINF:-1 group-title="KINO+📺",TvBoom-ViP
-https://kb.catcast.tv/content/49702/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",STAR CINEMA HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
-#EXTINF:-1 group-title="KINO+📺",Кино 1 International
-http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",viju TV1000 R Kino
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="KINO+📺", ссср мульты
