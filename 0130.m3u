@@ -109,8 +109,6 @@ http://cdn2.ntv.ru/th_hit/playlist.m3u8
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Общественные",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="Зоопарк" group-title="Idman", Матч HD
-http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Зоопарк" group-title="Познавательные", Зоопарк
 http://158.101.222.193:88/georgia_play.php?id=zoo
 #EXTINF:-1 tvg-id="National Geographic" group-title="Познавательные", National Geographic
