@@ -155,10 +155,16 @@ http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 group-title="KINO+📺",Мужское Кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
-#EXTINF:-1 group-title="KINO+📺",Кинопремьера
+#EXTINF:-1 group-title="KINO+📺",Кинопремьера 1
 http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
-#EXTINF:-1 group-title="KINO+📺",Кинопремьера
+#EXTINF:-1 group-title="KINO+📺",Кинопремьера 2
 https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кинопремьера 3
+https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
+https://mhd128.iptv2022.com/p/Mtx2zAnbiPAzk58qcHECDA,1765880251/streaming/film-premiere/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кинопремьера 3
+https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
+https://mhd128.iptv2022.com/p/Mtx2zAnbiPAzk58qcHECDA,1765880251/streaming/film-premiere/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",КИНОСЕРИЯ
 http://158.101.222.193:88/georgia_play.php?id=kinoseria
 #EXTINF:-1 group-title="KINO+📺", КХит HD
