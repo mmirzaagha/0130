@@ -10,8 +10,12 @@ https://live.itv.az/itv.m3u8
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 #EXTINF:-1 tvg-name="AZADTV.az" group-title="🇦🇿 Azərbaycan",Azad TV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 group-title="🇦🇿 Azərbaycan", Xezer TV (720p)
+https://www.xezerxeber.az/stream/index.m3u8
 #EXTINF:-1 tvg-name="ELTV.az" group-title="🇦🇿 Azərbaycan",EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 group-title="🇦🇿 Azərbaycan", Medeniyyet TV (1080p)
+https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1 group-title="🇦🇿 Azərbaycan", Show Plus AZE
 https://rtmp.showplus.tv/hls/myshow.m3u8
 
@@ -108,6 +112,10 @@ http://158.101.222.193:88/georgia_play.php?id=viasathist
 ############################
 # 📺 KINO+
 ############################
+#EXTINF:-1 group-title="KINO+📺",viju+ Megahit HD (1080p)
+http://stream.mcquack.net/200/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju+ Premiere HD (1080p)
+http://stream.mcquack.net/202/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",viju TV1000 action
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",Kinomiks
@@ -156,12 +164,20 @@ http://158.101.222.193:88/georgia_play.php?id=eurokino
 http://5.188.221.43:8080/play/kinosat
 #EXTINF:-1 group-title="KINO+📺",Kineko
 http://31.148.48.15/Kineko/index.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="KINO+📺", Dom kino Premium HD (1080p)
+http://stream.mcquack.net/108/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Nash Kinomir (576p)
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+#EXTINF:-1 group-title="KINO+📺", Dorama
+https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",Film UA Drama
 http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",zeetv
 http://158.101.222.193:88/georgia_play.php?id=zeetv
 #EXTINF:-1 group-title="KINO+📺",STAR CINEMA HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
+#EXTINF:-1 group-title="KINO+📺",START Air (576p)
+http://stream.mcquack.net/128/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",viju TV1000 R Kino
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="KINO+📺", Мосфильм. Золотая коллекция
