@@ -112,26 +112,16 @@ http://stream.mcquack.net/202/index.m3u8
 http://dmi3y-tv.online/hls/CH_VIP_SERIAL.m3u8
 #EXTINF:-1 group-title="KINO+📺",viju  Viju+ Comedy
 http://dmi3y-tv.online/hls/CH_VIP_COMEDY.m3u8
-#EXTINF:-1 group-title="KINO+📺", КиноХит
-https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
-#EXTINF:-1 group-title="KINO+📺", Cinema
-http://194.152.35.17/cinema/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Киноxит
+https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="KINO+📺", Cinema
 http://89.33.29.115:8080/cinema/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",viju  TV1000 Action
-http://217.11.177.56/streams/media/tv1000-action_720x576/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",viju  TV1000 Action
 http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", Кино TB
-http://194.152.35.17/kino-tv/index.m3u8
-#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://naggdd.github.io/iptv/logos/nst.png", НСТ
-http://176.118.197.101/HCT/index.m3u8
-#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://naggdd.github.io/iptv/logos/nst.png", НСТ
-http://vod.tuva.ru/nst/index.m3u8
+http://89.33.29.118:8080/Kino_TV_HD/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", Киноужаc
 http://stream.mcquack.net/278/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Kinomiks
-http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Kinomiks
 http://stream.mcquack.net/133/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",КИНОКОМЕДИЯ
@@ -142,10 +132,6 @@ http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 group-title="KINO+📺", Киносвидание
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="KINO+📺", Киносвидание
-http://37.186.70.39:40/play/67/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Кинопремьера 2
-https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",КИНОСЕРИЯ
 http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", КХит HD
@@ -154,8 +140,6 @@ http://hls127.freeott.top:8080/XitHD/video.m3u8
 http://dmi3y-tv.online/hls/CH_TOCHKA_BLACK.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="KINO+📺",.Red
 http://dmi3y-tv.online/hls/CH_TOCHKA_RED.m3u8
-#EXTINF:-1 group-title="KINO+📺",Amedia Hit
-http://37.186.70.39:40/play/54/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",FILM TV Кінозал
 http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 #EXTINF:-1 group-title="KINO+📺",Eurokino
@@ -164,12 +148,8 @@ https://s70378.cdn.ngenix.net/evrokino/2/index.m3u8
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="KINO+📺", Viasat Epic Drama
 http://195.189.60.253/118/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Kineko
-http://31.148.48.15/Kineko/index.m3u8?token=iptv.org.ua
 #EXTINF:-1 group-title="KINO+📺", Dom kino Premium HD (1080p)
 http://stream.mcquack.net/108/index.m3u8
-#EXTINF:-1 group-title="KINO+📺", Nash Kinomir (576p)
-http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 group-title="KINO+📺",Film UA Drama
 http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",STAR CINEMA HD
