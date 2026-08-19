@@ -93,8 +93,7 @@ http://cdn2.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="Общественные",Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Зоопарк" group-title="Познавательные", Зоопарк
-http://s8.rafail1982.uz/1417/tracks-v1a1/mono.m3u8
-
+https://s70378.cdn.ngenix.net/zoopark/2/index.m3u8
 #EXTINF:-1 tvg-id="Viju nature" group-title="Познавательные", Viju nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные", Viju explore
@@ -113,17 +112,37 @@ http://stream.mcquack.net/202/index.m3u8
 http://dmi3y-tv.online/hls/CH_VIP_SERIAL.m3u8
 #EXTINF:-1 group-title="KINO+📺",viju  Viju+ Comedy
 http://dmi3y-tv.online/hls/CH_VIP_COMEDY.m3u8
+#EXTINF:-1 group-title="KINO+📺", КиноХит
+https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
+#EXTINF:-1 group-title="KINO+📺", Cinema
+http://194.152.35.17/cinema/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Cinema
+http://89.33.29.115:8080/cinema/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju  TV1000 Action
+http://217.11.177.56/streams/media/tv1000-action_720x576/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju  TV1000 Action
+http://stream.mcquack.net/100/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Кино TB
+http://194.152.35.17/kino-tv/index.m3u8
 #EXTINF:-1 group-title="KINO+📺" tvg-logo="https://naggdd.github.io/iptv/logos/nst.png", НСТ
 http://176.118.197.101/HCT/index.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://naggdd.github.io/iptv/logos/nst.png", НСТ
+http://vod.tuva.ru/nst/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Киноужаc
+http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Kinomiks
-http://176.118.197.101/Kinomix/index.m3u8
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Kinomiks
+http://stream.mcquack.net/133/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",КИНОКОМЕДИЯ
 http://176.118.197.101/Kinokomediya/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Кинопремьера
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", КИНОПОКАЗ
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 group-title="KINO+📺", Киносвидание
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="KINO+📺", Киносвидание (3)
+#EXTINF:-1 group-title="KINO+📺", Киносвидание
 http://37.186.70.39:40/play/67/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Кинопремьера 2
 https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
@@ -140,7 +159,7 @@ http://37.186.70.39:40/play/54/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",FILM TV Кінозал
 http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 #EXTINF:-1 group-title="KINO+📺",Eurokino
-http://176.118.197.101/Evrokino/index.m3u8
+https://s70378.cdn.ngenix.net/evrokino/2/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", Viasat Kino Comedy
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="KINO+📺", Viasat Epic Drama
@@ -159,10 +178,20 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 http://stream.mcquack.net/128/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", Мосфильм. Золотая коллекция
 http://stream.mcquack.net/369/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Золотая коллекция
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
 #EXTINF:-1 group-title="KINO+📺", Кино 1 International [Not 24/7]
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="Discovery" group-title="KINO+📺",  .Sci-Fi
 http://dmi3y-tv.online/hls/CH_TOCHKA_SCI-FI.m3u8
+#EXTINF:-1 tvg-id="Discovery" group-title="KINO+📺", KinoKazka
+http://stream.mcquack.net/167/index.m3u8
+#EXTINF:-1 tvg-id="Discovery" group-title="KINO+📺", Fox
+http://stream.mcquack.net/182/index.m3u8
+#EXTINF:-1 tvg-id="Discovery" group-title="KINO+📺", Fox Life
+http://stream.mcquack.net/129/index.m3u8
+#EXTINF:-1 tvg-id="Discovery" group-title="KINO+📺", Hollywood
+http://stream.mcquack.net/268/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Kinowalk
 https://kinowalk.hopto.org/kinowalk_live
