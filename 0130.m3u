@@ -81,8 +81,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17c
 ############################
 # 🇷🇺 РУССКИЙ
 ############################
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",1 канал HD
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://iptvx.one/picons/ntv-style.png" group-title="Общественные",НТВ Стиль
@@ -93,22 +92,10 @@ http://cdn2.ntv.ru/th_serial/playlist.m3u8
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="Общественные",Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Общественные",Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Зоопарк" group-title="Познавательные", Зоопарк
 http://s8.rafail1982.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="National Geographic" group-title="Познавательные", National Geographic
-https://t.freetv.fun/live/national-geographic-2.m3u8
-#EXTINF:-1 group-title="Познавательные", National Geographic
-https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные", National Geographic Wild
-https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Discovery" group-title="Познавательные", Discovery
 https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Discovery" group-title="Познавательные",  .Sci-Fi
-http://dmi3y-tv.online/hls/CH_TOCHKA_SCI-FI.m3u8
-#EXTINF:-1 tvg-id="Приключения" group-title="Познавательные", Приключения
-https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Viju nature" group-title="Познавательные", Viju nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные", Viju explore
@@ -130,18 +117,10 @@ https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 http://dmi3y-tv.online/hls/CH_VIP_SERIAL.m3u8
 #EXTINF:-1 group-title="KINO+📺",viju  Viju+ Comedy
 http://dmi3y-tv.online/hls/CH_VIP_COMEDY.m3u8
-#EXTINF:-1 group-title="KINO+📺",viju TV1000 
-https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
 #EXTINF:-1 group-title="KINO+📺" tvg-logo="https://naggdd.github.io/iptv/logos/cinema.png", Cinema
-http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://naggdd.github.io/iptv/logos/cinema.png", Cinema (2)
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺" tvg-logo="https://naggdd.github.io/iptv/logos/nst.png", НСТ
 http://176.118.197.101/HCT/index.m3u8
-#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://naggdd.github.io/iptv/logos/nst.png", НСТ (2)
-https://vod.tuva.ru/nst/index.m3u8
-#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://naggdd.github.io/iptv/logos/nst.png",  Кино ТВ
-https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Kinomiks
 http://176.118.197.101/Kinomix/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Наше Новое Кино
@@ -204,6 +183,8 @@ http://stream.mcquack.net/128/index.m3u8
 http://stream.mcquack.net/369/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", Кино 1 International [Not 24/7]
 http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="Discovery" group-title="KINO+📺",  .Sci-Fi
+http://dmi3y-tv.online/hls/CH_TOCHKA_SCI-FI.m3u8
 
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Kinowalk
 https://kinowalk.hopto.org/kinowalk_live
