@@ -94,14 +94,12 @@ http://cdn2.ntv.ru/th_hit/playlist.m3u8
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Зоопарк" group-title="Познавательные", Зоопарк
 http://s8.rafail1982.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Discovery" group-title="Познавательные", Discovery
-https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Viju nature" group-title="Познавательные", Viju nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные", Viju explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
-#EXTINF:-1 tvg-id="Viju history" group-title="Познавательные", Viju history
-https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+
 
 
 ############################
@@ -111,44 +109,26 @@ https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/200/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",viju+ Premiere HD (1080p)
 http://stream.mcquack.net/202/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",viju TV1000 action
-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",viju  Viju+ Serial
 http://dmi3y-tv.online/hls/CH_VIP_SERIAL.m3u8
 #EXTINF:-1 group-title="KINO+📺",viju  Viju+ Comedy
 http://dmi3y-tv.online/hls/CH_VIP_COMEDY.m3u8
-#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://naggdd.github.io/iptv/logos/cinema.png", Cinema
-https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺" tvg-logo="https://naggdd.github.io/iptv/logos/nst.png", НСТ
 http://176.118.197.101/HCT/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Kinomiks
 http://176.118.197.101/Kinomix/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Наше Новое Кино
-https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",КИНОКОМЕДИЯ
 http://176.118.197.101/Kinokomediya/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",КИНОСЕМЬЯ
-https://stream8.cinerama.uz/1234/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", КИНОПОКАЗ
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 group-title="KINO+📺", Киносвидание
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="KINO+📺", Киносвидание (2)
-https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺", Киносвидание (3)
 http://37.186.70.39:40/play/67/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Мужское Кино
-https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO+📺",Кинопремьера 1
-https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",Кинопремьера 2
 https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",КИНОСЕРИЯ
-https://stream8.cinerama.uz/1235/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",КИНОСЕРИЯ
 http://176.118.197.101/Kinoseria/index.m3u8
-#EXTINF:-1 group-title="KINO+📺", Hollywood
-https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺", КХит HD
 http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="KINO+📺",.Black
@@ -171,8 +151,6 @@ http://31.148.48.15/Kineko/index.m3u8?token=iptv.org.ua
 http://stream.mcquack.net/108/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", Nash Kinomir (576p)
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
-#EXTINF:-1 group-title="KINO+📺", Dorama
-https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",Film UA Drama
 http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",STAR CINEMA HD
