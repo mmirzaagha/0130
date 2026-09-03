@@ -102,7 +102,7 @@ http://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.mpd
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные", Viju explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
-#EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные", tvg-logo="https://iptvx.one/picons/idxtra.png" ,Investigation Discovery
+#EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные" tvg-logo="https://iptvx.one/picons/idxtra.png" ,Investigation Discovery
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
 
