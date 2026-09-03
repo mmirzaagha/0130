@@ -96,13 +96,17 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 https://s70378.cdn.ngenix.net/zoopark/2/index.m3u8
 #EXTINF:-1 tvg-id="Зоопарк" group-title="Познавательные", Nat Geo Wild
 http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
+#EXTINF:-1 tvg-id="Зоопарк" group-title="Познавательные", Animal Planet HD
+http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Зоопарк" group-title="Познавательные", viju History
 http://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Viju nature" group-title="Познавательные", Viju nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные", Viju explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
-#EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные" tvg-logo="https://iptvx.one/picons/idxtra.png" ,Investigation Discovery
+#EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные", Discovery Channel
+http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
+#EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные",Investigation Discovery
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
 
@@ -110,6 +114,22 @@ http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
 ############################
 # 📺 KINO+
 ############################
+#EXTINF:-1 group-title="KINO+📺", Киноxит
+https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="KINO+📺",Kinomiks
+http://stream.mcquack.net/133/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", КИНОПОКАЗ
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 group-title="KINO+📺", Cinema
+http://89.33.29.115:8080/cinema/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Кинопремьера
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Киносвидание
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Кино TB
+http://89.33.29.118:8080/Kino_TV_HD/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Наше  Новое Кино
+http://mfe01.cliptv.az/dash/Nashe_Novoe_Kino_SDfgffgfgf23.ism/playlist.mpd
 #EXTINF:-1 group-title="KINO+📺",viju+ Megahit HD (1080p)
 http://stream.mcquack.net/200/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",viju+ Premiere HD (1080p)
@@ -118,26 +138,12 @@ http://stream.mcquack.net/202/index.m3u8
 http://dmi3y-tv.online/hls/CH_VIP_SERIAL.m3u8
 #EXTINF:-1 group-title="KINO+📺",viju  Viju+ Comedy
 http://dmi3y-tv.online/hls/CH_VIP_COMEDY.m3u8
-#EXTINF:-1 group-title="KINO+📺", Киноxит
-https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="KINO+📺", Cinema
-http://89.33.29.115:8080/cinema/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",viju  TV1000 Action
 http://stream.mcquack.net/100/index.m3u8
-#EXTINF:-1 group-title="KINO+📺", Кино TB
-http://89.33.29.118:8080/Kino_TV_HD/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", Киноужаc
 http://stream.mcquack.net/278/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Kinomiks
-http://stream.mcquack.net/133/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",КИНОКОМЕДИЯ
 http://176.118.197.101/Kinokomediya/index.m3u8
-#EXTINF:-1 group-title="KINO+📺", Кинопремьера
-http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
-#EXTINF:-1 group-title="KINO+📺", КИНОПОКАЗ
-http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
-#EXTINF:-1 group-title="KINO+📺", Киносвидание
-http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",КИНОСЕРИЯ
 http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", КХит HD
