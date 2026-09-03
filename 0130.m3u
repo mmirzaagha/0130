@@ -92,8 +92,6 @@ http://cdn2.ntv.ru/th_serial/playlist.m3u8
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="Общественные",Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Зоопарк" group-title="Познавательные", Зоопарк
-https://s70378.cdn.ngenix.net/zoopark/2/index.m3u8
 #EXTINF:-1 tvg-id="Зоопарк" group-title="Познавательные", Nat Geo Wild
 http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Зоопарк" group-title="Познавательные", Animal Planet HD
@@ -107,7 +105,6 @@ https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
 #EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные", Discovery Channel
 http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные",Investigation Discovery
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
 
 
@@ -126,8 +123,6 @@ http://89.33.29.115:8080/cinema/index.m3u8
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", Киносвидание
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="KINO+📺", Кино TB
-http://89.33.29.118:8080/Kino_TV_HD/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", Наше  Новое Кино
 http://mfe01.cliptv.az/dash/Nashe_Novoe_Kino_SDfgffgfgf23.ism/playlist.mpd
 #EXTINF:-1 group-title="KINO+📺",viju+ Megahit HD (1080p)
