@@ -95,8 +95,14 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17c
 ############################
 # 🇷🇺 РУССКИЙ
 ############################
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",РЕН ТВ
+#EXTINF:-1 tvg-id="ntv"  group-title="Общественные",РЕН ТВ
 http://185.32.44.154/rentv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ntv"  group-title="Общественные",Пятница
+http://flussonic.izone.az:80/pyatnicha/mono.m3u8
+#EXTINF:-1 tvg-id="ntv"  group-title="Общественные",СТС
+http://185.32.44.154/ctc/tracks-v1a1/index.m3u8
+
+
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://iptvx.one/picons/ntv-style.png" group-title="Общественные",НТВ Стиль
@@ -115,14 +121,23 @@ http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные", Viju explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
+#EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные", Viasat History
+http://185.32.44.154/viasathistory/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные", Discovery Channel
 http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
+#EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные", Discovery World
+http://185.32.44.154/DiscoveryChannelHD/index.m3u8
+
 
 
 
 ############################
 # 📺 KINO+
 ############################
+#EXTINF:-1 group-title="KINO+📺", КиноТВ
+https://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Мужское кино
+http://flussonic.izone.az:80/mkino/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺", Киноxит
 https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="KINO+📺",Kinomiks
