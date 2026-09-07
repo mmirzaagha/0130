@@ -15,9 +15,13 @@ https://www.xezerxeber.az/stream/index.m3u8
 #EXTINF:-1 tvg-name="ELTV.az" group-title="🇦🇿 Azərbaycan",EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1 group-title="🇦🇿 Azərbaycan", Medeniyyet TV (1080p)
-https://str.yodacdn.net/medeniyyettele/index.m3u8
+http://flussonic.izone.az:80/medeniyyet/mono.m3u8
 #EXTINF:-1 group-title="🇦🇿 Azərbaycan", Show Plus AZE
 https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1 group-title="🇦🇿 Azərbaycan", CBC Sport
+http://erlyvideo.izone.az:80/cbcsporthd/mono.m3u8
+#EXTINF:-1 group-title="🇦🇿 Azərbaycan", Idman TV
+http://flussonic.izone.az:80/idmanaz/mono.m3u8
 
 
 ############################
@@ -37,10 +41,16 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 #EXTINF:-1 tvg-id="STAR TV.tr" group-title="🇹🇷 Türkiyə", STAR TV HD
 https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
+#EXTINF:-1 tvg-name="TV 4" group-title="🇹🇷 Türkiyə",Tv8 Hd
+http://flussonic.izone.az:80/tv8/mono.m3u8
+#EXTINF:-1 tvg-name="TV 4" group-title="🇹🇷 Türkiyə",Tv8'5 Hd
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="KANAL 7" group-title="🇹🇷 Türkiyə",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-name="KANAL 7 AVRUPA" group-title="🇹🇷 Türkiyə",KANAL 7 AVRUPA
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+#EXTINF:-1 tvg-name="TV 4" group-title="🇹🇷 Türkiyə", A2 Hd
+http://89.187.191.41/A2-HD-TR/video.m3u8
 #EXTINF:-1 tvg-name="TV 4" group-title="🇹🇷 Türkiyə",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="Sinema",SiNEMA 1
@@ -66,6 +76,10 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 ############################
 # 🎵 MUSİQİ
 ############################
+#EXTINF:-1 group-title="🎵 Musiqi",MUSİC AZERBAYCAN
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 group-title="🎵 Musiqi",TURK MUZIK
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🎵 Musiqi",Kral Pop
 http://dygvideo.dygdigital.com/live/hls/kralpop
 #EXTINF:-1 group-title="🎵 Musiqi",Power Türk
@@ -81,7 +95,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17c
 ############################
 # 🇷🇺 РУССКИЙ
 ############################
-
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",РЕН ТВ
+http://185.32.44.154/rentv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://iptvx.one/picons/ntv-style.png" group-title="Общественные",НТВ Стиль
@@ -96,16 +111,13 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Зоопарк" group-title="Познавательные", Animal Planet HD
 http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
-#EXTINF:-1 tvg-id="Зоопарк" group-title="Познавательные", viju History
-http://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Viju nature" group-title="Познавательные", Viju nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные", Viju explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
 #EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные", Discovery Channel
 http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
-#EXTINF:-1 tvg-id="Viju explore" group-title="Познавательные",Investigation Discovery
-http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
+
 
 
 ############################
@@ -123,16 +135,10 @@ http://89.33.29.115:8080/cinema/index.m3u8
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", Киносвидание
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="KINO+📺", Наше  Новое Кино
-http://mfe01.cliptv.az/dash/Nashe_Novoe_Kino_SDfgffgfgf23.ism/playlist.mpd
 #EXTINF:-1 group-title="KINO+📺",viju+ Megahit HD (1080p)
 http://stream.mcquack.net/200/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",viju+ Premiere HD (1080p)
 http://stream.mcquack.net/202/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",viju  Viju+ Serial
-http://dmi3y-tv.online/hls/CH_VIP_SERIAL.m3u8
-#EXTINF:-1 group-title="KINO+📺",viju  Viju+ Comedy
-http://dmi3y-tv.online/hls/CH_VIP_COMEDY.m3u8
 #EXTINF:-1 group-title="KINO+📺",viju  TV1000 Action
 http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", Киноужаc
@@ -143,14 +149,6 @@ http://176.118.197.101/Kinokomediya/index.m3u8
 http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", КХит HD
 http://hls127.freeott.top:8080/XitHD/video.m3u8
-#EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="KINO+📺",.Black
-http://dmi3y-tv.online/hls/CH_TOCHKA_BLACK.m3u8
-#EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="KINO+📺",.Red
-http://dmi3y-tv.online/hls/CH_TOCHKA_RED.m3u8
-#EXTINF:-1 group-title="KINO+📺",FILM TV Кінозал
-http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="KINO+📺",Eurokino
-https://s70378.cdn.ngenix.net/evrokino/2/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", Viasat Kino Comedy
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="KINO+📺", Viasat Epic Drama
@@ -165,12 +163,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 http://stream.mcquack.net/128/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", Мосфильм. Золотая коллекция
 http://stream.mcquack.net/369/index.m3u8
-#EXTINF:-1 group-title="KINO+📺", Золотая коллекция
-http://hls127.freeott.top:8080/Mosfilm/video.m3u8
 #EXTINF:-1 group-title="KINO+📺", Кино 1 International [Not 24/7]
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-id="Discovery" group-title="KINO+📺",  .Sci-Fi
-http://dmi3y-tv.online/hls/CH_TOCHKA_SCI-FI.m3u8
 #EXTINF:-1 tvg-id="Discovery" group-title="KINO+📺", KinoKazka
 http://stream.mcquack.net/167/index.m3u8
 #EXTINF:-1 tvg-id="Discovery" group-title="KINO+📺", Fox
@@ -184,8 +178,6 @@ http://stream.mcquack.net/268/index.m3u8
 https://kinowalk.hopto.org/kinowalk_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Legion
 https://kinowalk.hopto.org/legion-tv_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", Video_Prokat
-https://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", MovieToper
 https://kinowalk.hopto.org/movietoper_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", TimeToHorror
@@ -208,10 +200,12 @@ https://kinowalk.hopto.org/serialtv_live
 https://kinowalk.hopto.org/serial4u_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", КиноНонСтоп
 https://kinowalk.hopto.org/nonestopmovie_live
-#EXTINF:-1 group-title="Кинозалы Kinowalk", KinoMix
-https://kinowalk.hopto.org/yurich_kinomix_live
-https://lbgo.bozztv.com/07/ushba62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Мистер Бин
 https://lbgo.bozztv.com/07/ushba45/index.m3u8
 
 
+############################
+# ⚽ Idman
+############################
+#EXTINF:-1 group-title="⚽ Idman",Setanta Sports 1
+http://185.32.44.154/test/index.m3u8
