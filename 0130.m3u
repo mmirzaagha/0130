@@ -230,10 +230,6 @@ http://109.205.166.68/2712/match_futbol_1/index3.m3u8?st=jZDkhPwrilakQINreN0w2w&
 http://109.205.166.68/2712/match_futbol_2/index3.m3u8?st=jZDkhPwrilakQINreN0w2w&e=1652674806
 #EXTINF:-1 group-title="⚽ Idman",Футбол 3
 http://109.205.166.68/2712/match_futbol_3/index3.m3u8?st=jZDkhPwrilakQINreN0w2w&e=1652674806
-#EXTINF:-1 group-title="⚽ Idman",МАТЧ!
-http://tv.tuva.ru/machtv/index.m3u8
-#EXTINF:-1 group-title="⚽ Idman",Setanta Sports 1
-http://185.32.44.154/test/index.m3u8
 #EXTINF:-1 group-title="⚽ Idman",NT SPOR
 http://162.55.99.99/gzcspor/gzcspor/chunklist_w50011584.m3u8
 
