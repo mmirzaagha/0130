@@ -19,9 +19,13 @@ http://flussonic.izone.az:80/medeniyyet/mono.m3u8
 #EXTINF:-1 group-title="🇦🇿 Azərbaycan", Show Plus AZE
 https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 group-title="🇦🇿 Azərbaycan", CBC Sport
-http://erlyvideo.izone.az:80/cbcsporthd/mono.m3u8
+https://hesen568.useruno.com/Turbo/restream.php?url=aHR0cDovLzU0LjM3LjEzOC4zMC8xMTQ0OC90cmFja3MtdjFhMS9tb25vLm0zdTg%2FdG9rZW49MUFCNzk3NTAwNzg4&id=874&ts=1
 #EXTINF:-1 group-title="🇦🇿 Azərbaycan", Idman TV
 http://flussonic.izone.az:80/idmanaz/mono.m3u8
+#EXTINF:-1 group-title="🇦🇿 Azərbaycan", Diginet Cinema Az
+https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
+#EXTINF:-1 group-title="🇦🇿 Azərbaycan", Ayaz Tv
+https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
 
 
 ############################
@@ -60,6 +64,8 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 ############################
 # 👶 UŞAQ
 ############################
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK DIYANET" group-title="👶 Uşaq",Günəş ARB
+http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/2189/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="👶 Uşaq",MİNİKA ÇOCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png" group-title="👶 Uşaq",MİNİKA GO
@@ -97,12 +103,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17c
 ############################
 #EXTINF:-1 tvg-id="ntv"  group-title="Общественные",РЕН ТВ
 http://185.32.44.154/rentv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="ntv"  group-title="Общественные",Пятница
-http://flussonic.izone.az:80/pyatnicha/mono.m3u8
-#EXTINF:-1 tvg-id="ntv"  group-title="Общественные",СТС
-http://185.32.44.154/ctc/tracks-v1a1/index.m3u8
-
-
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://iptvx.one/picons/ntv-style.png" group-title="Общественные",НТВ Стиль
@@ -134,14 +134,14 @@ http://185.32.44.154/DiscoveryChannelHD/index.m3u8
 ############################
 # 📺 KINO+
 ############################
-#EXTINF:-1 group-title="KINO+📺", КиноТВ
-https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="KINO+📺", Мужское кино
-http://flussonic.izone.az:80/mkino/mono.m3u8
+https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="KINO+📺", Киноxит
 https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="KINO+📺",Kinomiks
 http://stream.mcquack.net/133/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", КИНОПОКАЗ
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 group-title="KINO+📺", КИНОПОКАЗ
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 group-title="KINO+📺", Cinema
@@ -217,10 +217,23 @@ https://kinowalk.hopto.org/serial4u_live
 https://kinowalk.hopto.org/nonestopmovie_live
 #EXTINF:-1 group-title="Кинозалы Kinowalk", Мистер Бин
 https://lbgo.bozztv.com/07/ushba45/index.m3u8
+#EXTINF:-1 group-title="Кинозалы Kinowalk", Kino 1
+https://lbgo.bozztv.com/07/ushba65/tracks-v1a1/mono.ts.m3u8
 
 
 ############################
 # ⚽ Idman
 ############################
+#EXTINF:-1 group-title="⚽ Idman",Футбол 1
+http://109.205.166.68/2712/match_futbol_1/index3.m3u8?st=jZDkhPwrilakQINreN0w2w&e=1652674806
+#EXTINF:-1 group-title="⚽ Idman",Футбол 2
+http://109.205.166.68/2712/match_futbol_2/index3.m3u8?st=jZDkhPwrilakQINreN0w2w&e=1652674806
+#EXTINF:-1 group-title="⚽ Idman",Футбол 3
+http://109.205.166.68/2712/match_futbol_3/index3.m3u8?st=jZDkhPwrilakQINreN0w2w&e=1652674806
+#EXTINF:-1 group-title="⚽ Idman",МАТЧ!
+http://tv.tuva.ru/machtv/index.m3u8
 #EXTINF:-1 group-title="⚽ Idman",Setanta Sports 1
 http://185.32.44.154/test/index.m3u8
+#EXTINF:-1 group-title="⚽ Idman",NT SPOR
+http://162.55.99.99/gzcspor/gzcspor/chunklist_w50011584.m3u8
+
