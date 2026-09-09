@@ -8,24 +8,39 @@ https://str.yodacdn.net/azertv/index.m3u8
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="🇦🇿 Azərbaycan",BAKU TV
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
-#EXTINF:-1 tvg-name="AZADTV.az" group-title="🇦🇿 Azərbaycan",Azad TV
+#EXTINF:-1 tvg-name="AZADTV.az" group-title="🇦🇿 Azərbaycan",ATV AZ
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 tvg-name="AZADTV.az" group-title="🇦🇿 Azərbaycan",ATV Cinema
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/2120/index.m3u8
+#EXTINF:-1 tvg-name="AZADTV.az" group-title="🇦🇿 Azərbaycan",ATV Vivace
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/16068/index.m3u8
 #EXTINF:-1 group-title="🇦🇿 Azərbaycan", Xezer TV (720p)
 https://www.xezerxeber.az/stream/index.m3u8
 #EXTINF:-1 tvg-name="ELTV.az" group-title="🇦🇿 Azərbaycan",EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1 group-title="🇦🇿 Azərbaycan", Medeniyyet TV (1080p)
 http://flussonic.izone.az:80/medeniyyet/mono.m3u8
+#EXTINF:-1 group-title="🇦🇿 Azərbaycan", ARB
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/2187/index.m3u8
 #EXTINF:-1 group-title="🇦🇿 Azərbaycan", Show Plus AZE
 https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 group-title="🇦🇿 Azərbaycan", CBC Sport
-https://hesen568.useruno.com/Turbo/restream.php?url=aHR0cDovLzU0LjM3LjEzOC4zMC8xMTQ0OC90cmFja3MtdjFhMS9tb25vLm0zdTg%2FdG9rZW49MUFCNzk3NTAwNzg4&id=874&ts=1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/2193/index.m3u8
 #EXTINF:-1 group-title="🇦🇿 Azərbaycan", Idman TV
 http://flussonic.izone.az:80/idmanaz/mono.m3u8
 #EXTINF:-1 group-title="🇦🇿 Azərbaycan", Diginet Cinema Az
 https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
 #EXTINF:-1 group-title="🇦🇿 Azərbaycan", Ayaz Tv
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
+#EXTINF:-1 group-title="🇦🇿 Azərbaycan", Muz TV AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/2191/index.m3u8
+#EXTINF:-1 group-title="🇦🇿 Azərbaycan", KATV1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/16042/index.m3u8
+#EXTINF:-1 group-title="🇦🇿 Azərbaycan", ARB 24 HD AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/2188/index.m3u8
+#EXTINF:-1 group-title="🇦🇿 Azərbaycan", Space TV AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/2190/index.m3u8
+
 
 
 ############################
@@ -61,7 +76,26 @@ http://89.187.191.41/A2-HD-TR/video.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="Sinema",SiNEMA 1
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-name="TV 4" group-title="🇹🇷 Türkiyə",SINEMA TV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6806/index.m3u8
+#EXTINF:-1 tvg-name="TV 4" group-title="🇹🇷 Türkiyə",beIN Series 3 HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6814/index.m3u8
+#EXTINF:-1 tvg-name="TV 4" group-title="🇹🇷 Türkiyə",beIN Movies Premiere 2 HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6879/index.m3u8
+#EXTINF:-1 tvg-name="TV 4" group-title="🇹🇷 Türkiyə",beIN Movies Premiere HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6880/index.m3u8
+#EXTINF:-1 tvg-name="TV 4" group-title="🇹🇷 Türkiyə",beIN Series Drama HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6882/index.m3u8
+#EXTINF:-1 tvg-name="TV 4" group-title="🇹🇷 Türkiyə",beIN Box Office 1 HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6744/index.m3u8
+#EXTINF:-1 tvg-name="TV 4" group-title="🇹🇷 Türkiyə",beIN Box Office 2 HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6745/index.m3u8
+#EXTINF:-1 tvg-name="TV 4" group-title="🇹🇷 Türkiyə",TLC TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6915/index.m3u8
+#EXTINF:-1 tvg-name="TV 4" group-title="🇹🇷 Türkiyə",Discovery Channel HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6861/index.m3u8
+#EXTINF:-1 tvg-name="TV 4" group-title="🇹🇷 Türkiyə",National Geographic HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6866/index.m3u8
 
 ############################
 # 👶 UŞAQ
@@ -231,6 +265,17 @@ http://109.205.166.68/2712/match_futbol_1/index3.m3u8?st=jZDkhPwrilakQINreN0w2w&
 http://109.205.166.68/2712/match_futbol_2/index3.m3u8?st=jZDkhPwrilakQINreN0w2w&e=1652674806
 #EXTINF:-1 group-title="⚽ Idman",Футбол 3
 http://109.205.166.68/2712/match_futbol_3/index3.m3u8?st=jZDkhPwrilakQINreN0w2w&e=1652674806
+#EXTINF:-1 group-title="⚽ Idman",ESP
+http://205.235.6.29:8000/play/a0zf/index.m3u8
 #EXTINF:-1 group-title="⚽ Idman",NT SPOR
 http://162.55.99.99/gzcspor/gzcspor/chunklist_w50011584.m3u8
+#EXTINF:-1 group-title="⚽ Idman",Tivibu Spor 2 HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6816/index.m3u8
+#EXTINF:-1 group-title="⚽ Idman",beIN Sports 3 HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6821/index.m3u8
+#EXTINF:-1 group-title="⚽ Idman",S Sport HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6825/index.m3u8
+#EXTINF:-1 group-title="⚽ Idman",Eurosport 1 HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6829/index.m3u8
+
 
