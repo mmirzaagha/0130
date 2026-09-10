@@ -115,24 +115,6 @@ https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerC
 #EXTINF:-1 group-title="🎬 Film",Fanatik Max Korku
 https://v2.catcast.tv/content/50717/seg-25826740-v1-a1/index.m3u8
 
-#EXTINF:-1 tvg-name="TV 4" group-title="🎬 Film",SINEMA TV
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6806/index.m3u8
-#EXTINF:-1 tvg-name="TV 4" group-title="🎬 Film",beIN Series 3 HD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6814/index.m3u8
-#EXTINF:-1 tvg-name="TV 4" group-title="🎬 Film",beIN Movies Premiere 2 HD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6879/index.m3u8
-#EXTINF:-1 tvg-name="TV 4" group-title="🎬 Film",beIN Movies Premiere HD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6880/index.m3u8
-#EXTINF:-1 tvg-name="TV 4" group-title="🎬 Film",beIN Series Drama HD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6882/index.m3u8
-#EXTINF:-1 tvg-name="TV 4" group-title="🎬 Film",beIN Box Office 1 HD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6744/index.m3u8
-#EXTINF:-1 tvg-name="TV 4" group-title="🎬 Film",beIN Box Office 2 HD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6745/index.m3u8
-#EXTINF:-1 tvg-name="TV 4" group-title="🎬 Film",TLC TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/6915/index.m3u8
-
-
 
 # 🎵 MUSİQİ
 #EXTINF:-1 group-title="🎵 Musiqi",TURK MUZIK
@@ -235,18 +217,14 @@ http://stream.mcquack.net/129/index.m3u8
 http://stream.mcquack.net/268/index.m3u8
 
 # VF kanalları da 🎬 Film qrupundadır
+#EXTINF:-1 group-title="🎬 Film",VF Netflix
+http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/19427/index.m3u8
 #EXTINF:-1 group-title="🎬 Film",VF Premiere
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/10052/index.m3u8
-#EXTINF:-1 group-title="🎬 Film",VF Премьера
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/10051/index.m3u8
 #EXTINF:-1 group-title="🎬 Film",VF Comedy
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/10003/index.m3u8
-#EXTINF:-1 group-title="🎬 Film",VF Комедия
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/10055/index.m3u8
 #EXTINF:-1 group-title="🎬 Film",VF Classic
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/10054/index.m3u8
-#EXTINF:-1 group-title="🎬 Film",VF Классика
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/10053/index.m3u8
 #EXTINF:-1 group-title="🎬 Film",VF Боевик
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/10087/index.m3u8
 #EXTINF:-1 group-title="🎬 Film",VF Катастрофы
@@ -283,11 +261,6 @@ http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/10010/index.m3u8
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/13093/index.m3u8
 #EXTINF:-1 group-title="🎬 Film",VF Art house
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/11119/index.m3u8
-#EXTINF:-1 group-title="🎬 Film",VF Кино 4K
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/11114/index.m3u8
-#EXTINF:-1 group-title="🎬 Film",VF Netflix
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/19427/index.m3u8
-#EXTINF:-1 group-title="🎬 Film",VF HBO
 #EXTINF:-1 group-title="🎬 Film",VF Мосфильм
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/10084/index.m3u8
 #EXTINF:-1 group-title="🎬 Film",VF Disney Movie
@@ -303,12 +276,8 @@ http://109.205.166.68/2712/match_futbol_1/index3.m3u8?st=jZDkhPwrilakQINreN0w2w&
 http://109.205.166.68/2712/match_futbol_2/index3.m3u8?st=jZDkhPwrilakQINreN0w2w&e=1652674806
 #EXTINF:-1 group-title="⚽ İdman",Футбол 3
 http://109.205.166.68/2712/match_futbol_3/index3.m3u8?st=jZDkhPwrilakQINreN0w2w&e=1652674806
-#EXTINF:-1 group-title="⚽ İdman",Матч! Премьер FHD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/2414/index.m3u
 #EXTINF:-1 group-title="⚽ İdman",Setanta Eurasia HD
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/271/index.m3u
-#EXTINF:-1 group-title="⚽ İdman",Setanta Qazaqstan HD
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/2399/index.m3u
 #EXTINF:-1 group-title="⚽ İdman",Setanta Ukraine HD
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/272/index.m3u
 #EXTINF:-1 group-title="⚽ İdman",Setanta Ukraine Plus HD
@@ -318,8 +287,6 @@ http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/5078/index.m3u
 
 
 # 🧠 SƏNƏDLİ
-#EXTINF:-1 tvg-id="Зоопарк" group-title="🧠 Sənədli",Nat Geo Wild
-http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Зоопарк" group-title="🧠 Sənədli",Animal Planet HD
 http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Viju nature" group-title="🧠 Sənədli",Viju nature
