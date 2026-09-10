@@ -9,6 +9,8 @@
 https://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="⭐ Əsas",İctimai TV
 https://live.itv.az/itv.m3u8
+#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="⭐ Əsas",İctimai TV
+http://flussonic.izone.az:80/ictimaitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="⭐ Əsas",BAKU TV
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 #EXTINF:-1 tvg-name="AZADTV.az" group-title="⭐ Əsas",ATV AZ
