@@ -9,6 +9,8 @@
 https://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="⭐ Əsas",İctimai TV
 https://live.itv.az/itv.m3u8
+#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="⭐ Əsas",İctimai TV
+http://flussonic.izone.az:80/ictimaitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="⭐ Əsas",BAKU TV
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 #EXTINF:-1 tvg-name="AZADTV.az" group-title="⭐ Əsas",ATV AZ
@@ -60,7 +62,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H
 #EXTINF:-1 group-title="⚽ İdman",CBC Sport
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/2193/index.m3u8
 #EXTINF:-1 group-title="⚽ İdman",Idman TV
-http://flussonic.izone.az:80/idmanaz/mono.m3u8
+http://str.yodacdn.net/idmantele/index.m3u8
 
 # 👶 UŞAQ
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK DIYANET" group-title="👶 Uşaq",Günəş ARB
