@@ -37,8 +37,6 @@ https://rtmp.showplus.tv/hls/myshow.m3u8
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 
 # 🎬 FİLM
-#EXTINF:-1 tvg-name="ATV Cinema" group-title="🎬 Film",ATV Cinema
-https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/ATVCinema.m3u8
 #EXTINF:-1 group-title="🎬 Film",Diginet Cinema Az
 https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
 #EXTINF:-1 group-title="🎬 Film",Cinema AZ Dublyaj
