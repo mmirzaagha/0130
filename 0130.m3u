@@ -43,6 +43,8 @@ https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaAzDublyaj.m3u8
 #EXTINF:-1 group-title="🎬 Film",Cinema AZ Dublyaj 2
 https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-Aze_Dublaj-3.m3u8
+#EXTINF:-1 group-title="🎬 Film",ATV Cinema AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/S8VNGCFUZYYPDT/2120/index.m3u8
 
 # 🎵 MUSİQİ
 #EXTINF:-1 group-title="🎵 Musiqi",MUSİC AZERBAYCAN
