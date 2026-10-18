@@ -163,6 +163,10 @@ http://cdn2.ntv.ru/th_serial/playlist.m3u8
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="⭐ Əsas",Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Пятница!" group-title="⭐ Əsas",Большая Азия HD
+https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 tvg-id="Пятница!" group-title="⭐ Əsas",ТНТ HD
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
 
 # 🎬 FİLM
 #EXTINF:-1 group-title="🎬 Film",Мужское кино
@@ -193,6 +197,12 @@ http://stream.mcquack.net/278/index.m3u8
 http://176.118.197.101/Kinokomediya/index.m3u8
 #EXTINF:-1 group-title="🎬 Film",КИНОСЕРИЯ
 http://176.118.197.101/Kinoseria/index.m3u8
+#EXTINF:-1 group-title="🎬 Film",ЕВРОКИНО
+http://dmi3y-tv.online/hls/CH_EVROKINO.m3u8
+#EXTINF:-1 group-title="🎬 Film",.black
+http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1 group-title="🎬 Film",НСТ
+http://dmi3y-tv.online/hls/CH_NST.m3u8
 #EXTINF:-1 group-title="🎬 Film",КХит HD
 http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 group-title="🎬 Film",Viasat Kino Comedy
@@ -266,6 +276,14 @@ http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/10084/index.m3u8
 #EXTINF:-1 group-title="🎬 Film",VF Disney Movie
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/15010/index.m3u8
 
+# 🎵 MUSİQİ
+#EXTINF:-1 group-title="🎵 Musiqi",Bridge TV
+http://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
+#EXTINF:-1 group-title="🎵 Musiqi",Bridge Hits
+http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+#EXTINF:-1 group-title="🎵 Musiqi",RU TV
+http://5.188.159.128:8070/rutv/index.m3u8
+
 
 
 # ⚽ İDMAN
@@ -284,6 +302,12 @@ http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/272/index.m3u
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/5068/index.m3u
 #EXTINF:-1 group-title="⚽ İdman",Viasat Fotboll HD SK
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/5078/index.m3u
+#EXTINF:-1 group-title="⚽ İdman",Viju+ Sport
+http://stream.mcquack.net/333/index.m3u8
+#EXTINF:-1 group-title="⚽ İdman",Футбол
+http://178.124.179.122:8088/Setanta1/index.m3u8
+#EXTINF:-1 group-title="⚽ İdman",ТВ Спорт HD
+http://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
 
 
 # 🧠 SƏNƏDLİ
