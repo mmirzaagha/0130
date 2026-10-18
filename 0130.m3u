@@ -39,10 +39,6 @@ http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/pl
 # 🎬 FİLM
 #EXTINF:-1 group-title="🎬 Film",Diginet Cinema Az
 https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
-#EXTINF:-1 group-title="🎬 Film",Cinema AZ Dublyaj
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaAzDublyaj.m3u8
-#EXTINF:-1 group-title="🎬 Film",Cinema AZ Dublyaj 2
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-Aze_Dublaj-3.m3u8
 #EXTINF:-1 group-title="🎬 Film",ATV Cinema AZ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/S8VNGCFUZYYPDT/2120/index.m3u8
 
@@ -51,8 +47,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/S8VNGCFUZYYPDT/2120/inde
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Musiqi",ATV Vivace
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/16068/index.m3u8
-#EXTINF:-1 group-title="🎵 Musiqi",Ayaz TV
-https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
 #EXTINF:-1 group-title="🎵 Musiqi",Muz TV AZ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/2191/index.m3u8
 
