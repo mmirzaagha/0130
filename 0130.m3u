@@ -170,8 +170,6 @@ http://cdn2.ntv.ru/th_serial/playlist.m3u8
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="⭐ Əsas",Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Пятница!" group-title="⭐ Əsas",Большая Азия HD
-https://vod.tuva.ru/friday/index.m3u8
 #EXTINF:-1 tvg-id="Пятница!" group-title="⭐ Əsas",ТНТ HD
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
 
@@ -200,14 +198,8 @@ http://stream.mcquack.net/278/index.m3u8
 http://176.118.197.101/Kinokomediya/index.m3u8
 #EXTINF:-1 group-title="🎬 Film",КИНОСЕРИЯ
 http://176.118.197.101/Kinoseria/index.m3u8
-#EXTINF:-1 group-title="🎬 Film",ЕВРОКИНО
-http://dmi3y-tv.online/hls/CH_EVROKINO.m3u8
 #EXTINF:-1 group-title="🎬 Film",.black
 http://stream.mcquack.net/263/index.m3u8
-#EXTINF:-1 group-title="🎬 Film",НСТ
-http://dmi3y-tv.online/hls/CH_NST.m3u8
-#EXTINF:-1 group-title="🎬 Film",Viasat Kino Comedy
-http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="🎬 Film",Viasat Epic Drama
 http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 group-title="🎬 Film",Dom kino Premium HD (1080p)
