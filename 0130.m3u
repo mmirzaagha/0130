@@ -14,11 +14,13 @@ https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 #EXTINF:-1 tvg-name="AZADTV.az" group-title="⭐ Əsas",ATV AZ
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 group-title="⭐ Əsas",Xezer TV
-https://www.xezerxeber.az/stream/index.m3u8
+http://erlyvideo.izone.az:80/xezertv/mono.m3u8
+#EXTINF:-1 group-title="⭐ Əsas",Mədəniyyət
+http://erlyvideo.izone.az:80/medeniyyet/mono.m3u8
 #EXTINF:-1 tvg-name="ELTV.az" group-title="⭐ Əsas",EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1 group-title="⭐ Əsas",ARB
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/2187/index.m3u8
+http://erlyvideo.izone.az:80/arb/mono.m3u8
 #EXTINF:-1 group-title="⭐ Əsas",ARB 24 HD AZ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/2188/index.m3u8
 #EXTINF:-1 group-title="⭐ Əsas",Space TV AZ
@@ -42,10 +44,9 @@ https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/S8VNGCFUZYYPDT/2120/index.m3u8
 
 # 🎵 MUSİQİ
-#EXTINF:-1 group-title="🎵 Musiqi",Ayaz TV
-https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u
-#EXTINF:-1 group-title="🎵 Musiqi",Muz TV AZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/2191/index.m3u8
+#EXTINF:-1 group-title="🎵 Musiqi",KN Music TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -140,6 +141,8 @@ https://ronaldo.magnitude.workers.dev/?url=https://ladyboy.ardastream2.cfd//bein
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 #EXTINF:-1 group-title="⚽ İdman", A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 group-title="⚽ İdman", FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 
 
 # 👶 UŞAQ
@@ -271,11 +274,15 @@ http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/15010/index.m3u8
 
 # 🎵 MUSİQİ
 #EXTINF:-1 group-title="🎵 Musiqi",Bridge TV
-http://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
-#EXTINF:-1 group-title="🎵 Musiqi",Bridge Hits
-http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
-#EXTINF:-1 group-title="🎵 Musiqi",RU TV
-http://5.188.159.128:8070/rutv/index.m3u8
+http://stream.mcquack.net/318/index.m3u8
+#EXTINF:-1 group-title="🎵 Musiqi",BRIDGE Classic
+http://stream.mcquack.net/272/index.m3u8
+#EXTINF:-1 group-title="🎵 Musiqi",BRIDGE Deluxe HD
+http://stream.mcquack.net/92/index.m3u8
+#EXTINF:-1 group-title="🎵 Musiqi",BRIDGE Hits
+http://stream.mcquack.net/320/index.m3u8
+#EXTINF:-1 group-title="🎵 Musiqi",BRIDGE Rock
+http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
 
 
 
@@ -293,8 +300,6 @@ http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/271/index.m3u
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/272/index.m3u
 #EXTINF:-1 group-title="⚽ İdman",Setanta Ukraine Plus HD
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/5068/index.m3u
-#EXTINF:-1 group-title="⚽ İdman",Viasat Fotboll HD SK
-http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/5078/index.m3u
 #EXTINF:-1 group-title="⚽ İdman",Viju+ Sport
 http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 group-title="⚽ İdman",Футбол
@@ -314,6 +319,8 @@ https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
 http://185.32.44.154/viasathistory/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Viju explore" group-title="🧠 Sənədli",Discovery Channel
 http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
+#EXTINF:-1 tvg-id="Viju explore" group-title="🧠 Sənədli",National Geographic
+http://stream.mcquack.net/116/index.m3u8
 
 
 # ==================================================
