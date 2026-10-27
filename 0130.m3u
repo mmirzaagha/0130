@@ -147,6 +147,12 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK DIYANET" group-title="👶 Uşaq",TRT COCUK DIYANET
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CAILLOU" group-title="👶 Uşaq",CAILLOU
+https://catcast.ismailturret.workers.dev/fanatikkidscaillou.m3u8
+
+# 🧠 SƏNƏDLİ
+#EXTINF:-1 tvg-id="Ed Stafford" group-title="🧠 Sənədli",Ed Stafford
+https://catcast.ismailturret.workers.dev/fanatikprimeEdStafford.m3u8
 
 
 # ==================================================
