@@ -27,13 +27,12 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/16042/index.m3u8
 #EXTINF:-1 group-title="⭐ Əsas",Kəpəz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
-
-
-# 🎭 ƏYLƏNCƏ
-#EXTINF:-1 group-title="🎭 Əyləncə",Show Plus AZE
+#EXTINF:-1 group-title="⭐ Əsas",Show Plus AZE
 https://rtmp.showplus.tv/hls/myshow.m3u8
-#EXTINF:-1 group-title="🎭 Əyləncə",Könül TV
+#EXTINF:-1 group-title="⭐ Əsas",Könül TV
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+
+
 
 # 🎬 FİLM
 #EXTINF:-1 group-title="🎬 Film",Diginet Cinema Az
@@ -93,10 +92,9 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 http://89.187.191.41/A2-HD-TR/video.m3u8
 #EXTINF:-1 tvg-name="TV 4" group-title="⭐ Əsas",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
-
-# 🎭 ƏYLƏNCƏ
-#EXTINF:-1 tvg-name="EURO D" group-title="🎭 Əyləncə",EURO D
+#EXTINF:-1 tvg-name="EURO D" group-title="⭐ Əsas",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+
 
 # 🎬 FİLM
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/879/420/png-clipart-film-video-production-television-graphy-cine-miscellaneous-label-thumbnail.png" group-title="🎬 Film",SiNEMA 1
@@ -172,22 +170,33 @@ http://cdn2.ntv.ru/th_serial/playlist.m3u8
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="⭐ Əsas",Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Пятница!" group-title="⭐ Əsas",ТНТ HD
+#EXTINF:-1 tvg-id="ТВ3" group-title="⭐ Əsas",ТВ3
+http://vipl.one/hls/28u6ktvdax/15.m3u8
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
+#EXTINF:-1 tvg-id="Домашний" group-title="⭐ Əsas",Домашний
+http://vipl.one/hls/28u6ktvdax/15.m3u8
+#EXTINF:-1 tvg-id="ТНТ4" group-title="⭐ Əsas",ТНТ4
+http://vipl.one/hls/28u6ktvdax/476.m3u8
+#EXTINF:-1 tvg-id="ТНТ" group-title="⭐ Əsas",ТНТ
+http://vipl.one/hls/28u6ktvdax/19.m3u8
+#EXTINF:-1 tvg-id="Пятница! HD" group-title="⭐ Əsas",Пятница! HD
+http://vipl.one/hls/28u6ktvdax/35.m3u8
+#EXTINF:-1 tvg-id="СТС HD" group-title="⭐ Əsas",СТС HD
+http://vipl.one/hls/28u6ktvdax/1061.m3u8
 
 # 🎬 FİLM
 #EXTINF:-1 group-title="🎬 Film",Мужское кино
 http://185.121.1.163:8083/MuzhskoeKino/index.m3u8
 #EXTINF:-1 group-title="🎬 Film",Киноxит
-http://6au8zl0c.megatv.fun/iptv/E8Q36367WLXKB3/516/index.m3u8
+https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
 #EXTINF:-1 group-title="🎬 Film",Kinomiks
 http://stream.mcquack.net/133/index.m3u8
 #EXTINF:-1 group-title="🎬 Film",КИНОПОКАЗ
-http://6au8zl0c.megatv.fun/iptv/E8Q36367WLXKB3/2439/index.m3u8
+http://stream1.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Film",Кинопремьера
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 group-title="🎬 Film",Киносвидание
-http://5.188.159.128:8070/kinosvidanie/index.m3u8
+http://s1.merlive.am/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="🎬 Film",viju+ Megahit HD (1080p)
 http://stream.mcquack.net/200/index.m3u8
 #EXTINF:-1 group-title="🎬 Film",viju+ Premiere HD (1080p)
@@ -309,7 +318,7 @@ http://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
 
 # 🧠 SƏNƏDLİ
 #EXTINF:-1 tvg-id="Зоопарк" group-title="🧠 Sənədli",Animal Planet HD
-http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
+http://vipl.one/hls/28u6ktvdax/295.m3u8
 #EXTINF:-1 tvg-id="Viju nature" group-title="🧠 Sənədli",Viju nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 tvg-id="Viju explore" group-title="🧠 Sənədli",Viju explore
@@ -320,7 +329,8 @@ http://185.32.44.154/viasathistory/tracks-v1a1/index.m3u8
 http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Viju explore" group-title="🧠 Sənədli",National Geographic
 http://stream.mcquack.net/116/index.m3u8
-
+#EXTINF:-1 tvg-id="TLC" group-title="🧠 Sənədli",TLC
+http://vipl.one/hls/28u6ktvdax/169.m3u8
 
 # ==================================================
 # QEYD
